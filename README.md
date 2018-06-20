@@ -1,0 +1,1 @@
+# confitura-2018-building-realtime-and-big-data-pipelines-with-apache-kafka-presentation
