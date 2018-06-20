@@ -1,6 +1,7 @@
 
 # Building Realtime & Big Data Pipelines with Apache Kafka
 
+
 ---
 
 * Narzędzie do efektywnego strumieniowego przesyłania danych w systemach Big Data (terabajty danych, miliony zdarzeń na sekundę)
@@ -10,11 +11,16 @@
 * Integruje się z wieloma narzędziami (np. Storm i Spark)
 * Używa mechanizmu “Zero Copy”
 
+
 ---
 
 * Kolejka danych (Publish + Subscribe)
 * Rozproszona “baza danych” (distributed commit log)
 * Przetwarzanie strumieniowe danych
+
+
+---?image=img/kafka-apis.png&size=auto 50%&position=bottom&color=#CCDAE7
+
 
 ---
 
