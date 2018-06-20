@@ -1,10 +1,7 @@
-# Apache Kafka 
 
-Building Realtime & Big Data Pipelines with Apache Kafka
+# Building Realtime & Big Data Pipelines with Apache Kafka
 
 ---
-
-### Apache Kafka 
 
 * Narzędzie do efektywnego strumieniowego przesyłania danych w systemach Big Data (terabajty danych, miliony zdarzeń na sekundę)
 * Można traktować jak kolejkę JMS (producent konsument)
