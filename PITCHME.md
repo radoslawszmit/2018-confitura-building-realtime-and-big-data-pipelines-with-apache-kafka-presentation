@@ -9,22 +9,23 @@ Apache Kafka® is a distributed streaming platform
 
 ---
 
-* Narzędzie do efektywnego strumieniowego przesyłania danych w systemach Big Data (terabajty danych, miliony zdarzeń na sekundę)
-* Można traktować jak kolejkę JMS (producent konsument)
-* Narzędzie czasu rzeczywistego
-* Można używać wielu języków programowania (główny Scala)
-* Integruje się z wieloma narzędziami (np. Storm i Spark)
-* Używa mechanizmu “Zero Copy”
-
-
----
-
 * Kolejka danych (Publish + Subscribe)
 * Rozproszona “baza danych” (distributed commit log)
 * Przetwarzanie strumieniowe danych
 
 
----?image=img/kafka-apis.png&size=auto 50%&position=center
+---
+
+* Narzędzie do efektywnego strumieniowego przesyłania danych pomiędzy systemami i aplikacjami 
+* Narzędzie do przetwarzania strumieni danych
+
+
+---
+
+* Narzędzie (niemal) czasu rzeczywistego
+* Big Data (terabajty danych, miliony zdarzeń na sekundę)
+
+
 
 
 ---?
@@ -44,3 +45,13 @@ Apache Kafka® is a distributed streaming platform
 - Connector API
 @ulend
 @divend
+
+
+
+
+---
+
+
+* Można używać wielu języków programowania (główny Scala)
+* Integruje się z wieloma narzędziami (np. Storm i Spark)
+* Używa mechanizmu “Zero Copy”
