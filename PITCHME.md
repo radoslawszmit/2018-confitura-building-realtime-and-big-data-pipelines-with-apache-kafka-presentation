@@ -28,12 +28,11 @@
 
 @div[left-50]
 <br>
-![MONKEY](assets/img/zebra.jpg)
+![MONKEY](img/kafka-apis.png)
 @divend
 
 @div[right-50]
-<br><br><br>
-@ul[brighten]
+@ul[white]
 - Present
 - Your
 - Ideas
