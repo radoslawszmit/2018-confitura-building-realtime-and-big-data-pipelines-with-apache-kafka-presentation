@@ -4,6 +4,11 @@
 
 ---
 
+Apache Kafka® is a distributed streaming platform
+
+
+---
+
 * Narzędzie do efektywnego strumieniowego przesyłania danych w systemach Big Data (terabajty danych, miliony zdarzeń na sekundę)
 * Można traktować jak kolejkę JMS (producent konsument)
 * Narzędzie czasu rzeczywistego
@@ -24,7 +29,7 @@
 
 ---?
 
-### @color[white](Kafka API)
+### Kafka API
 
 @div[left-50]
 <br>
