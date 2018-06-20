@@ -48,6 +48,11 @@ Apache Kafka® is a distributed streaming platform
 
 
 
+---?image=img/log_anatomy.png&size=auto 50%&position=center
+
+---?image=img/log_consumer.png&size=auto 50%&position=center
+
+
 
 ---
 
