@@ -22,6 +22,21 @@
 ---?image=img/kafka-apis.png&size=auto 50%&position=center
 
 
----
+---?color=black
 
-![Kafka API](https://kafka.apache.org/11/images/kafka-apis.png)
+### @color[white](Layout text alongside images)
+
+@div[left-50]
+<br>
+![MONKEY](assets/img/zebra.jpg)
+@divend
+
+@div[right-50]
+<br><br><br>
+@ul[brighten]
+- Present
+- Your
+- Ideas
+- Step-by-step
+@ulend
+@divend
