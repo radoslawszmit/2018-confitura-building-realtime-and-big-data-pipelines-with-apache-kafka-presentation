@@ -1,5 +1,5 @@
 
-# Building Realtime & Big Data Pipelines with Apache Kafka
+## Building Realtime & Big Data Pipelines with Apache Kafka
 
 
 ---
@@ -24,18 +24,18 @@
 
 ---?color=black
 
-### @color[white](Layout text alongside images)
+### @color[white](Kafka API)
 
 @div[left-50]
 <br>
 ![MONKEY](img/kafka-apis.png)
 @divend
-
+<br/><br/>
 @div[right-50]
 @ul[white]
-- Present
-- Your
-- Ideas
-- Step-by-step
+- Producer API
+- Consumer API
+- Streams API
+- Connector API
 @ulend
 @divend
