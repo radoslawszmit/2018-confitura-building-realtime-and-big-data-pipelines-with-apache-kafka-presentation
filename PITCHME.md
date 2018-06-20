@@ -12,4 +12,10 @@
 
 ---
 
+* Kolejka danych (Publish + Subscribe)
+* Rozproszona “baza danych” (distributed commit log)
+* Przetwarzanie strumieniowe danych
+
+---
+
 ![Kafka API](https://kafka.apache.org/11/images/kafka-apis.png)
