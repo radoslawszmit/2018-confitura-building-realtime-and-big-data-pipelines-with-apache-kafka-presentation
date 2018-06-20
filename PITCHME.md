@@ -19,7 +19,7 @@
 * Przetwarzanie strumieniowe danych
 
 
----?image=img/kafka-apis.png&size=auto 50%&position=bottom&color=#CCDAE7
+---?image=img/kafka-apis.png&size=auto 50%&position=center
 
 
 ---
