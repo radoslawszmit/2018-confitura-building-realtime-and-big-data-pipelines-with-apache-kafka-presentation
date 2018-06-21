@@ -3,6 +3,14 @@
 ### with Apache Kafka
 
 
+
+---
+# Radosław Szmit
+@fa[twitter] @RadoslawSzmit <br/>
+@fa[globe] http://bigdatapassion.pl/ </br>
+@fa[envelope] radoslaw.szmit@gmail.com <br/>
+
+
 ---
 ### Czy jest Apache Kafka?
 Apache Kafka® is a distributed streaming platform
