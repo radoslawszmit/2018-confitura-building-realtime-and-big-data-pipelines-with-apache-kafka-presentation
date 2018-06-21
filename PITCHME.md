@@ -56,7 +56,13 @@ Apache Kafka® is a distributed streaming platform
 
 
 
+---
+* Integruje się z wieloma narzędziami (np. Storm i Spark)
+
+
+
 ---?image=img/log_consumer.png&size=auto 50%&position=center
+
 ### Kafka Logs
 
 
@@ -107,6 +113,3 @@ Apache Kafka® is a distributed streaming platform
 
 
 
----
-* Można używać wielu języków programowania (główny Scala)
-* Integruje się z wieloma narzędziami (np. Storm i Spark)
