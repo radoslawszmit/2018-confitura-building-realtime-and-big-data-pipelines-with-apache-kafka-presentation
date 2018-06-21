@@ -25,7 +25,7 @@ Apache Kafka® is a distributed streaming platform
 ---
 ### Cechy
 * Narzędzie (niemal) czasu rzeczywistego
-* Big Data (terabajty danych, miliony zdarzeń na sekundę)
+* Narzędzie Big Data (terabajty danych, miliony zdarzeń na sekundę)
 
 
 
@@ -42,17 +42,51 @@ Apache Kafka® is a distributed streaming platform
 - Producer API
 - Consumer API
 - Streams API
-- Connector API
+- Connect API (Connector API)
+- AdminClient API
+- Legacy API (old)
 @ulend
 @divend
 
 
 
----?image=img/log_anatomy.png&size=auto 50%&position=center
+---
+### Klienci Kafka
+* Zespół Apache Kafka utrzymuje i rozwija bibliotekę kliencką dla języka Java
+* Dostępne są klienci "community" dla innych języków:
+* C/C++
+* Python
+* Go (AKA golang)
+* Erlang
+* .NET
+* Clojure
+* Ruby
+* Node.js
+* Proxy (HTTP REST, etc)
+* Perl
+* stdin/stdout
+* PHP
+* Rust
+* Alternative Java
+* Storm
+* Scala DSL 
+* Clojure
+* Swift
 
 
 
 ---?image=img/log_consumer.png&size=auto 50%&position=center
+### Kafka Logs
+
+
+
+---?image=img/log_anatomy.png&size=auto 50%&position=center
+### Partycje
+
+
+
+---?image=img/consumer-groups.png&size=auto 50%&position=center
+### Grupy konsumentów
 
 
 
