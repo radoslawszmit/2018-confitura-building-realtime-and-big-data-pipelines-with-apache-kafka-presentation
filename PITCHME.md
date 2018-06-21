@@ -11,12 +11,12 @@
 
 
 ---
-### Czy jest Apache Kafka?
-Apache Kafka® is a distributed streaming platform
+### Czym jest Apache Kafka?
+"Apache Kafka® is a distributed streaming platform"
 
 
 ---
-### Czy jest Apache Kafka?
+### Czym jest Apache Kafka?
 * Kolejka danych (Publish + Subscribe)
 * Rozproszona “baza danych” (distributed commit log)
 * Przetwarzanie strumieniowe danych
