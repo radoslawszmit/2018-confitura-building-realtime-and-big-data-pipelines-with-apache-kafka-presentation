@@ -25,6 +25,11 @@
     height: 50%;
 }
 
+#zastosowania + p img  {
+    width: 50%;
+    height: 50%;
+}
+
 #data-copying ~ div img  {
     width: 80%;
     height: 80%;
