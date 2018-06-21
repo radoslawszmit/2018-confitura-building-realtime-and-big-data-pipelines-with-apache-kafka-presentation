@@ -80,11 +80,11 @@ Apache Kafka® is a distributed streaming platform
 ### Context switching
 
 @div[left-50 fragment]
-![](img/traditional-data-copying.gif&size=auto 60%)
+![](img/traditional-data-copying.gif)
 @divend
 
 @div[right-50 fragment]
-![](img/zero-copy-data-copying.gif&size=auto 60%)
+![](img/zero-copy-data-copying.gif)
 @divend
 
 <span class="footer">https://www.ibm.com/developerworks/library/j-zerocopy/index.html</span>
