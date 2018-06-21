@@ -73,8 +73,6 @@ Apache Kafka® is a distributed streaming platform
 ![](img/zero-copy-data-copying.gif)
 @divend
 
-https://www.ibm.com/developerworks/library/j-zerocopy/index.html
-
 
 
 ---
