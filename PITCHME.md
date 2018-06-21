@@ -33,7 +33,7 @@ Apache Kafka® is a distributed streaming platform
 ### Kafka API
 
 @div[left-50]
-![MONKEY](img/kafka-apis.png)
+![](img/kafka-apis.png)
 @divend
 
 @div[right-50]
@@ -69,6 +69,11 @@ Apache Kafka® is a distributed streaming platform
 
 ---?image=img/log_anatomy.png&size=auto 50%&position=center
 ### Partycje
+
+
+---
+### Partycje
+![](img/log_anatomy.png)
 
 
 
