@@ -36,7 +36,7 @@ Apache Kafka® is a distributed streaming platform
 <br>
 ![MONKEY](img/kafka-apis.png)
 @divend
-<br/><br/>
+
 @div[right-50]
 @ul[white]
 - Producer API
