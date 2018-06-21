@@ -27,7 +27,6 @@ Apache Kafka® is a distributed streaming platform
 
 
 
-
 ---?
 
 ### Kafka API
@@ -50,13 +49,51 @@ Apache Kafka® is a distributed streaming platform
 
 ---?image=img/log_anatomy.png&size=auto 50%&position=center
 
+
+
 ---?image=img/log_consumer.png&size=auto 50%&position=center
 
 
 
 ---
 
+"Zero-copy" describes computer operations in which the CPU does not perform the task of copying data from one memory area to another. This is frequently used to save CPU cycles and memory bandwidth when transmitting a file over a network. Wikipedia
 
+
+
+---
+
+### Data copying
+
+@div[left-50 fragment]
+![](img/traditional-data-copying.gif)
+@divend
+
+@div[right-50 fragment]
+![](img/zero-copy-data-copying.gif)
+@divend
+
+https://www.ibm.com/developerworks/library/j-zerocopy/index.html
+
+
+
+---
+
+### Context switching
+
+@div[left-50 fragment]
+![](img/traditional-data-copying.gif)
+@divend
+
+@div[right-50 fragment]
+![](img/zero-copy-data-copying.gif)
+@divend
+
+https://www.ibm.com/developerworks/library/j-zerocopy/index.html
+
+
+
+---
 * Można używać wielu języków programowania (główny Scala)
 * Integruje się z wieloma narzędziami (np. Storm i Spark)
 * Używa mechanizmu “Zero Copy”
