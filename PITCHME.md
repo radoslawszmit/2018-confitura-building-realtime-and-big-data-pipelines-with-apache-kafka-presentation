@@ -75,7 +75,7 @@ Apache Kafka® is a distributed streaming platform
 
 ---
 ### Grupy konsumentów
-![](img/consumer-groups.pn)
+![](img/consumer-groups.png)
 
 
 
