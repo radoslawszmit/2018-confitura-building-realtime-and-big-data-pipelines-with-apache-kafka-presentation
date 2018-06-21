@@ -57,7 +57,11 @@ Apache Kafka® is a distributed streaming platform
 
 
 ---
-* Integruje się z wieloma narzędziami (np. Storm i Spark)
+### Ekosystem
+* Integruje się z wieloma narzędziami: Hadoop, Flume, JDBC, Elasticsearch, Presto, Hive, Camel etc.
+* Integracja z narzędziemi do przetwarzania strumieniowego: Spark, Storm, Samza, Flink, Apex, Spring Cloud Stream etc.
+* Dystrybucje Big Data (Cloudera, Hortonworks)
+* Integracja z AWS
 
 
 
