@@ -141,7 +141,7 @@ Apache Kafka® is a distributed streaming platform
 
 
 ---
-
+### Producer API
 ~~~java
 Properties producerConfig = new Properties();
 producerConfig.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, KAFKA_SERVER);
