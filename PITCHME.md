@@ -61,14 +61,10 @@ Apache Kafka® is a distributed streaming platform
 
 
 
----?image=img/log_consumer.png&size=auto 50%&position=center
-
+---
 ### Kafka Logs
+![](img/log_consumer.png)
 
-
-
----?image=img/log_anatomy.png&size=auto 50%&position=center
-### Partycje
 
 
 ---
@@ -77,8 +73,9 @@ Apache Kafka® is a distributed streaming platform
 
 
 
----?image=img/consumer-groups.png&size=auto 50%&position=center
+---
 ### Grupy konsumentów
+![](img/consumer-groups.pn)
 
 
 
