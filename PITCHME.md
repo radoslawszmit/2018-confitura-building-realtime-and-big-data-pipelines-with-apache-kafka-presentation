@@ -156,9 +156,10 @@ ProducerRecord<String, String> data = new ProducerRecord<>(TOPIC, MESSAGE_ID, "M
 producer.send(data);
 ~~~
 
-@[1,2](You can present code inlined within your slide markdown too.)
-@[9-17](Displayed using code-syntax highlighting just like your IDE.)
-@[19-20](Again, all of this without ever leaving your slideshow.)
+@[1,6](Konfiguracja)
+@[8](Kafka producent)
+@[10](Rekord wiadomośći (klucz - wartość))
+@[11](Wysłanie wiadomości)
 
 
 
