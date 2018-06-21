@@ -154,6 +154,30 @@ Producer<String, String> producer = new KafkaProducer<>(producerConfig);
 
 ProducerRecord<String, String> data = new ProducerRecord<>(TOPIC, MESSAGE_ID, "Message text...");
 producer.send(data);
+
+Properties producerConfig = new Properties();
+producerConfig.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, KAFKA_SERVER);
+producerConfig.put(ProducerConfig.ACKS_CONFIG, "all");
+producerConfig.put(ProducerConfig.RETRIES_CONFIG, 0);
+producerConfig.put(ProducerConfig.VALUE_SERIALIZER_CLASS_CONFIG, StringSerializer.class.getCanonicalName());
+producerConfig.put(ProducerConfig.KEY_SERIALIZER_CLASS_CONFIG, StringSerializer.class.getCanonicalName());
+
+Producer<String, String> producer = new KafkaProducer<>(producerConfig);
+
+ProducerRecord<String, String> data = new ProducerRecord<>(TOPIC, MESSAGE_ID, "Message text...");
+producer.send(data);
+
+Properties producerConfig = new Properties();
+producerConfig.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, KAFKA_SERVER);
+producerConfig.put(ProducerConfig.ACKS_CONFIG, "all");
+producerConfig.put(ProducerConfig.RETRIES_CONFIG, 0);
+producerConfig.put(ProducerConfig.VALUE_SERIALIZER_CLASS_CONFIG, StringSerializer.class.getCanonicalName());
+producerConfig.put(ProducerConfig.KEY_SERIALIZER_CLASS_CONFIG, StringSerializer.class.getCanonicalName());
+
+Producer<String, String> producer = new KafkaProducer<>(producerConfig);
+
+ProducerRecord<String, String> data = new ProducerRecord<>(TOPIC, MESSAGE_ID, "Message text...");
+producer.send(data);
 ~~~
 
 @[1-6](Konfiguracja)
