@@ -156,7 +156,7 @@ ProducerRecord<String, String> data = new ProducerRecord<>(TOPIC, MESSAGE_ID, "M
 producer.send(data);
 ~~~
 
-@[1,6](Konfiguracja)
+@[1-6](Konfiguracja)
 @[8](Kafka producent)
 @[10](Rekord wiadomośći (klucz - wartość))
 @[11](Wysłanie wiadomości)
