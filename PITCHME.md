@@ -4,32 +4,32 @@
 
 
 ---
-
+### Czy jest Apache Kafka?
 Apache Kafka® is a distributed streaming platform
 
 
 ---
-
+### Czy jest Apache Kafka?
 * Kolejka danych (Publish + Subscribe)
 * Rozproszona “baza danych” (distributed commit log)
 * Przetwarzanie strumieniowe danych
 
 
 ---
-
+### Zastosowania
 * Narzędzie do efektywnego strumieniowego przesyłania danych pomiędzy systemami i aplikacjami 
 * Narzędzie do przetwarzania strumieni danych
+* Narzędzie do reagowania na zdarzenia
 
 
 ---
-
+### Cechy
 * Narzędzie (niemal) czasu rzeczywistego
 * Big Data (terabajty danych, miliony zdarzeń na sekundę)
 
 
 
----?
-
+---
 ### Kafka API
 
 @div[left-50]
@@ -57,13 +57,12 @@ Apache Kafka® is a distributed streaming platform
 
 
 ---
-
+### Zero-copy
 "Zero-copy" describes computer operations in which the CPU does not perform the task of copying data from one memory area to another. This is frequently used to save CPU cycles and memory bandwidth when transmitting a file over a network. Wikipedia
 
 
 
 ---
-
 ### Data copying
 
 @div[left-50 fragment]
@@ -79,7 +78,6 @@ Apache Kafka® is a distributed streaming platform
 
 
 ---
-
 ### Context switching
 
 @div[left-50 fragment]
@@ -97,4 +95,3 @@ Apache Kafka® is a distributed streaming platform
 ---
 * Można używać wielu języków programowania (główny Scala)
 * Integruje się z wieloma narzędziami (np. Storm i Spark)
-* Używa mechanizmu “Zero Copy”
