@@ -24,3 +24,8 @@
     width: 50%;
     height: 50%;
 }
+
+#data-copying + p img  {
+    width: 50%;
+    height: 50%;
+}
