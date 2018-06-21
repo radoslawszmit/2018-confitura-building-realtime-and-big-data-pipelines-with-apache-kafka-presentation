@@ -89,7 +89,7 @@ https://www.ibm.com/developerworks/library/j-zerocopy/index.html
 ![](img/zero-copy-data-copying.gif)
 @divend
 
-https://www.ibm.com/developerworks/library/j-zerocopy/index.html
+<span>https://www.ibm.com/developerworks/library/j-zerocopy/index.html</span>
 
 
 
