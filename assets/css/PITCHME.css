@@ -1,4 +1,9 @@
 
+.reveal section img {
+    border: 0;
+    box-shadow: none;
+}
+
 .footer {
     position: fixed;
     left: 0;
