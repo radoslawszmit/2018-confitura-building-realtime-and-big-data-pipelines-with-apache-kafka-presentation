@@ -41,7 +41,7 @@ Apache Kafka® is a distributed streaming platform
 - Producer API
 - Consumer API
 - Streams API
-- Connect API (Connector API)
+- Connect API
 - AdminClient API
 - Legacy API (old)
 @ulend
