@@ -1,7 +1,6 @@
 
 .reveal section img {
     border: 0;
-    box-shadow: none;
 }
 
 .footer {
@@ -24,5 +23,4 @@
 #kafka-logs + p img  {
     width: 50%;
     height: 50%;
-    border: solid 1px;
 }
