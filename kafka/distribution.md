@@ -3,7 +3,6 @@
 
 
 +++
-Apache Software Foundation
 ![](img/2000px-Apache_Software_Foundation_Logo.svg.png)
 
 
