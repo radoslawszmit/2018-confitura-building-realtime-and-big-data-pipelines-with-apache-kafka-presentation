@@ -12,9 +12,9 @@
 
 
 ---?include=kafka/intro.md
----?include=kafka/integration.md
 ---?include=kafka/use-cases.md
 ---?include=kafka/how-it-works.md
+---?include=kafka/integration.md
 ---?include=kafka/architecture.md
 ---?include=kafka/publish-subcribe-code.md
 
