@@ -2,9 +2,6 @@
 # Wstęp
 
 
-+++?image=img/Franz-Kafka.jpg&color=black
-
-
 +++
 ### Czym jest Apache Kafka?
 "Apache Kafka® is a distributed streaming platform"
@@ -15,6 +12,10 @@
 * Kolejka danych (Publish + Subscribe)
 * Rozproszona “baza danych” (distributed commit log)
 * Przetwarzanie strumieniowe danych
+
+
+
++++?image=img/Franz-Kafka.jpg&color=black
 
 
 
