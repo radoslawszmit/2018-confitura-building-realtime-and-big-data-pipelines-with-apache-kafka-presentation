@@ -1,5 +1,5 @@
 
-## Integracja
+# Integracja
 
 ---
 ### Kafka API
