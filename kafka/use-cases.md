@@ -1,5 +1,5 @@
 
-## Zastosowania
+# Zastosowania
 
 ---
 ### Zastosowania

@@ -1,5 +1,5 @@
 
-## Wstęp
+# Wstęp
 
 ---
 ### Czym jest Apache Kafka?

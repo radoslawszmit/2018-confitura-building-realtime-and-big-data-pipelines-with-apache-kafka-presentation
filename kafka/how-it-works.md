@@ -1,5 +1,5 @@
 
-## Zasada działania
+# Zasada działania
 
 ---
 ### Kafka Logs
