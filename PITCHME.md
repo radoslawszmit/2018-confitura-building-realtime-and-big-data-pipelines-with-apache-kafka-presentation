@@ -110,7 +110,7 @@
 
 
 
----
++++
 ### Data copying
 
 @div[left-50 fragment]
@@ -125,7 +125,7 @@
 
 
 
----
++++
 ### Context switching
 
 @div[left-50 fragment]
