@@ -3,6 +3,8 @@
 
 
 +++?image=img/FranzKafka_SW.jpg&size=auto 80%&color=black
++++?image=img/FranzKafka_SW.jpg&color=black
++++?image=img/Franz-Kafka.jpg&color=black
 
 
 +++
