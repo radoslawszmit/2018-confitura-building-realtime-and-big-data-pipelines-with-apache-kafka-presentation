@@ -1,7 +1,7 @@
 
 # Zastosowania
 
----
++++
 ### Zastosowania
 * Narzędzie do efektywnego strumieniowego przesyłania danych pomiędzy systemami i aplikacjami 
 * Narzędzie do przetwarzania strumieni danych
@@ -9,6 +9,6 @@
 
 
 
----
++++
 ### Zastosowania
 ![](img/chart-kafka-infrastructure.png)

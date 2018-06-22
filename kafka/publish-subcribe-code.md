@@ -1,7 +1,7 @@
 
 # Producer/Consumer API
 
----
++++
 ### Producer API
 ~~~java
 Properties producerConfig = new Properties();
@@ -23,7 +23,7 @@ producer.send(data);
 
 
 
----
++++
 ### Consumer API
 ~~~java
 Properties consumerConfig = new Properties();
