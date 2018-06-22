@@ -2,8 +2,6 @@
 # Wstęp
 
 
-+++?image=img/Franz-Kafka.jpg&size=auto 80%&color=black
-+++?image=img/Franz-Kafka.jpg&size=auto&color=black
 +++?image=img/Franz-Kafka.jpg&color=black
 
 
