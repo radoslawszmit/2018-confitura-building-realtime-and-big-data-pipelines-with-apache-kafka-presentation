@@ -1,6 +1,10 @@
 
 # Wstęp
 
+
++++?image=img/FranzKafka_SW.jpg&size=auto 80%&color=black
+
+
 +++
 ### Czym jest Apache Kafka?
 "Apache Kafka® is a distributed streaming platform"

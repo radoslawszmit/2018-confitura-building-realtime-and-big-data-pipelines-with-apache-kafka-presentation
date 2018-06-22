@@ -21,7 +21,7 @@
 
 
 ---
-* https://kafka.apache.org/documentation/
+* https://kafka.apache.org
 * https://www.confluent.io/blog
 * https://github.com/apache/kafka
 
