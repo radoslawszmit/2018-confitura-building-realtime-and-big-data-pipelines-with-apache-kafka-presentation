@@ -12,6 +12,7 @@
 
 
 ---?include=kafka/intro.md
+---?include=kafka/distribution.md
 ---?include=kafka/use-cases.md
 ---?include=kafka/architecture.md
 ---?include=kafka/how-it-works.md
