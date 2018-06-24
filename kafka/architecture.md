@@ -4,7 +4,7 @@
 
 +++
 ### Architektura
-![](img/kafka-architecture.png)
+![](img/architecture/kafka-architecture.png)
 
 
 +++
@@ -17,11 +17,11 @@
 ### Data copying
 
 @div[left-50 fragment]
-![](img/traditional-data-copying.gif)
+![](img/architecture/traditional-data-copying.gif)
 @divend
 
 @div[right-50 fragment]
-![](img/zero-copy-data-copying.gif)
+![](img/architecture/zero-copy-data-copying.gif)
 @divend
 
 <span class="footer">https://www.ibm.com/developerworks/library/j-zerocopy/index.html</span>
@@ -32,11 +32,11 @@
 ### Context switching
 
 @div[left-50 fragment]
-![](img/traditional-context-switching.gif)
+![](img/architecture/traditional-context-switching.gif)
 @divend
 
 @div[right-50 fragment]
-![](img/zero-copy-context-switching.gif)
+![](img/architecture/zero-copy-context-switching.gif)
 @divend
 
 <span class="footer">https://www.ibm.com/developerworks/library/j-zerocopy/index.html</span>

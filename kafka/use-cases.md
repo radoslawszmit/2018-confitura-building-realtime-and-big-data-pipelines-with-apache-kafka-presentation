@@ -11,4 +11,4 @@
 
 +++
 ### Zastosowania
-![](img/chart-kafka-infrastructure.png)
+![](img/use-cases/chart-kafka-infrastructure.png)
