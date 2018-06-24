@@ -21,14 +21,15 @@
 ---?include=kafka/intro.md
 ---?include=kafka/distribution.md
 ---?include=kafka/use-cases.md
----?include=kafka/architecture.md
 ---?include=kafka/how-it-works.md
+---?include=kafka/architecture.md
 ---?include=kafka/integration.md
 ---?include=kafka/publish-subcribe-code.md
 
 
 
 ---
+### Więcej informacji można znaleźć:
 * https://github.com/apache/kafka
 * https://kafka.apache.org
 * https://www.confluent.io/blog
