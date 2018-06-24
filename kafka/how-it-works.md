@@ -11,10 +11,10 @@
 +++
 ### Kafka Logs
 * Prosta abstrakcja składowania danych
+* Logi to wiadomości klucz-wartość
 * Sekwencja danych (zachowuje kolejność)
 * Brak edycji (tylko append)
 * Logi danych a nie aplikacji (!=log4j)
-* Logi to wiadomości klucz-wartość
 
 
 +++
@@ -34,6 +34,7 @@
 
 
 +++
+<!-- .slide: class="imagecentersize50" -->
 ### Consumer offset
 ![](img/how-it-works/log_consumer.png)
 

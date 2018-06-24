@@ -21,6 +21,10 @@
 
 
 
+.imagecentersize50 img {
+    width: 50%;
+    height: 50%;
+}
 
 
 #kafka-logs + p img  {
