@@ -16,7 +16,6 @@
 
 
 +++?image=img/intro/Franz-Kafka.jpg&color=black
-+++?image=img/intro/cemetery-1500806_1920.jpg&color=black
 
 
 
