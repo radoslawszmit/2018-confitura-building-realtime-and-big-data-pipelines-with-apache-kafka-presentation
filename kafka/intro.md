@@ -9,9 +9,9 @@
 
 +++
 ### Czym jest Apache Kafka?
-* Kolejka danych (Publish + Subscribe)
+* Kolejka danych, message broker (publish / subscribe)
 * Rozproszona “baza danych” (distributed commit log)
-* Przetwarzanie strumieniowe danych
+* Przetwarzanie strumieniowe danych (stream processing)
 
 
 
