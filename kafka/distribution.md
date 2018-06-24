@@ -27,5 +27,5 @@
 
 
 +++
-### Hortonworks DataFlow (HDF)
+### Chmury publiczne
 ![](img/distribution/confluent_cloud_apache.png)
