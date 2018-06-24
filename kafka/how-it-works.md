@@ -3,16 +3,16 @@
 
 +++
 ### Kafka Logs
-![](img/log_consumer.png)
+![](img/how-it-works/log_consumer.png)
 
 
 
 +++
 ### Partycje
-![](img/log_anatomy.png)
+![](img/how-it-works/log_anatomy.png)
 
 
 
 +++
 ### Grupy konsumentów
-![](img/consumer-groups.png)
+![](img/how-it-works/consumer-groups.png)
