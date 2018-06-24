@@ -27,6 +27,15 @@
 
 
 +++
+### Kafka Logs
+* Prosta abstrakcja składowania danych
+* Sekwencja danych (zachowuje kolejność)
+* Brak edycji (tylko append)
+* Logi danych a nie aplikacji (!=log4j)
+
+
+
++++
 ### Partycje
 ![](img/how-it-works/log_anatomy.png)
 
