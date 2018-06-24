@@ -27,6 +27,7 @@
 
 
 +++
+<!-- .slide: class="center" -->
 ### Kafka Logs
 * Prosta abstrakcja składowania danych
 * Sekwencja danych (zachowuje kolejność)
