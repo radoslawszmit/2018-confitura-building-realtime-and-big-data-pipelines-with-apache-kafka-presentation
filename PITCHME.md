@@ -5,8 +5,6 @@
 
 ---
 # Radosław Szmit
-Programista JVM, Inżynier Big Data, <br/>
-Pracownik Naukowy, Trener <br/>
 @fa[twitter] @RadoslawSzmit <br/>
 @fa[globe] http://bigdatapassion.pl/ <br/>
 @fa[envelope] radoslaw.szmit@gmail.com <br/>
