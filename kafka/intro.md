@@ -21,6 +21,11 @@
 
 +++
 ### Cechy
+* Szybkość
+* Małe opóźnienia (low latency)
+* Skalowalność
+* Rozproszona
+* Trwałość (durability)
 * Narzędzie czasu rzeczywistego
 * Narzędzie Big Data (terabajty danych, miliony zdarzeń na sekundę)
 
