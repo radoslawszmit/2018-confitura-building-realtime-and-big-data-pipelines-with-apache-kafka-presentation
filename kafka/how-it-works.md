@@ -17,14 +17,23 @@
 * Logi danych a nie aplikacji (!=log4j)
 
 
+
++++
+### Producenci i konsumenci logów
+![](img/how-it-works/kafka-architecture.png)
+
+
+
 +++
 ### Producenci i konsumenci logów
 ![](img/how-it-works/log_subscription.png)
 
 
+
 +++
 ### Partycje
 ![](img/how-it-works/partitioned_log.png)
+
 
 
 +++
