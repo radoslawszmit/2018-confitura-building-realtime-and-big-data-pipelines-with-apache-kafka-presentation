@@ -4,7 +4,7 @@
 
 +++
 ### Architektura
-![](img/architecture/kafka-architecture.png)
+![](img/architecture/Kafka-Broker-Diagram.png)
 
 
 +++
