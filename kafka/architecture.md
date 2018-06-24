@@ -9,6 +9,12 @@
 
 
 +++
+### Brokerzy
+![](img/architecture/broker-on-disk.png)
+
+
+
++++
 ### Wiadomości
 ![](img/architecture/messages.jpg)
 

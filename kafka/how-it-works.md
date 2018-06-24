@@ -51,6 +51,12 @@
 
 +++
 ### Grupy konsumentów
+![](img/how-it-works/consumer-group.png)
+
+
+
++++
+### Grupy konsumentów
 ![](img/how-it-works/consumer-groups.png)
 
 
