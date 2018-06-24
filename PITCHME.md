@@ -11,6 +11,13 @@
 
 
 
+---
+### Cel prezentacji
+* Poznanie Apache Kafka
+* Budowanie rozwiązań opartych o Apache Kafka
+
+
+
 ---?include=kafka/intro.md
 ---?include=kafka/distribution.md
 ---?include=kafka/use-cases.md
