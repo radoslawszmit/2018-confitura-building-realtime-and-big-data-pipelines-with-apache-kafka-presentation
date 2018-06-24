@@ -15,6 +15,7 @@
 
 
 +++
+<!-- .slide: class="imagecentersize50" -->
 ### Confluent Platform
 ![](img/distribution/confluentPlatform3.1.png)
 
@@ -27,5 +28,6 @@
 
 
 +++
+<!-- .slide: class="imagecentersize50" -->
 ### Chmury publiczne
 ![](img/distribution/confluent_cloud_apache.png)
