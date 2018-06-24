@@ -22,9 +22,12 @@
 
 
 ---
+* https://github.com/apache/kafka
 * https://kafka.apache.org
 * https://www.confluent.io/blog
-* https://github.com/apache/kafka
+* Kafka: The Definitive Guide (O'Reilly Media, Inc. September 2017)
+* [Mastering Apache Kafka (Jacek Laskowski)](https://jaceklaskowski.gitbooks.io/apache-kafka/)
+* http://bigdatapassion.pl/categories/kafka/
 
 
 

@@ -12,3 +12,13 @@
 +++
 ### Zastosowania
 ![](img/use-cases/chart-kafka-infrastructure.png)
+
+
+
++++
+### Message Broker
+* Amazon Web Services (AWS) Simple Queue Service (SQS)
+* Apache ActiveMQ
+* Apache Apollo
+* RabbitMQ
+* Apache Qpid

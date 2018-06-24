@@ -21,7 +21,7 @@
 
 +++
 ### Cechy
-* Narzędzie (niemal) czasu rzeczywistego
+* Narzędzie czasu rzeczywistego
 * Narzędzie Big Data (terabajty danych, miliony zdarzeń na sekundę)
 
 
