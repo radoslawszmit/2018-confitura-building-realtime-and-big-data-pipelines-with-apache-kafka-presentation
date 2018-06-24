@@ -4,7 +4,7 @@
 
 +++
 ### Kafka Logs
-![](img/how-it-works/log_consumer.png)
+![](img/how-it-works/log.png)
 
 
 
@@ -17,6 +17,15 @@
 * Logi to wiadomości klucz-wartość
 
 
++++
+### Producenci i konsumenci logów
+![](img/how-it-works/log_subscription.png)
+
+
++++
+### Partycje
+![](img/how-it-works/partitioned_log.png)
+
 
 +++
 ### Partycje
@@ -25,5 +34,17 @@
 
 
 +++
+### Consumer offset
+![](img/how-it-works/log_consumer.png)
+
+
+
++++
 ### Grupy konsumentów
 ![](img/how-it-works/consumer-groups.png)
+
+
+
++++
+### Kompaktowanie logów
+![](img/how-it-works/log_compaction_0.png)
