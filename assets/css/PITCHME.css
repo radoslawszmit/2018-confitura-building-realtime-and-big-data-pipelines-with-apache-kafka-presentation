@@ -26,15 +26,20 @@
     height: 50%;
 }
 
-
-#kafka-logs + p img  {
+.imagecentersize75 img {
     width: 50%;
     height: 50%;
 }
 
-#zastosowania + p img  {
-    width: 75%;
-    height: 75%;
+
+
+
+
+
+
+#kafka-logs + p img  {
+    width: 50%;
+    height: 50%;
 }
 
 #data-copying ~ div img  {
