@@ -3,6 +3,9 @@
     border: 0;
 }
 
+
+
+
 .footer {
     position: absolute;
     left: 0;
@@ -15,6 +18,13 @@
 .footer a {
     font-size: 10px;
 }
+
+
+
+.text-small {
+    font-size: small;
+}
+
 
 
 

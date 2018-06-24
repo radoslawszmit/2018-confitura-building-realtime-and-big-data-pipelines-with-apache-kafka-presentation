@@ -10,7 +10,7 @@
 @divend
 
 @div[right-50]
-@ul[white]
+@ul[text-small]
 * Prosta abstrakcja składowania danych
 * Sekwencja danych (zachowuje kolejność)
 * Brak edycji (tylko append)
