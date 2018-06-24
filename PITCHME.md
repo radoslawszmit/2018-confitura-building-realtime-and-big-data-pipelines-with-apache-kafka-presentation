@@ -26,7 +26,7 @@
 * https://kafka.apache.org
 * https://www.confluent.io/blog
 * Kafka: The Definitive Guide (O'Reilly Media, Inc. September 2017)
-* [Mastering Apache Kafka (Jacek Laskowski)](https://jaceklaskowski.gitbooks.io/apache-kafka/)
+* Mastering Apache Kafka (Jacek Laskowski)
 * http://bigdatapassion.pl/categories/kafka/
 
 
