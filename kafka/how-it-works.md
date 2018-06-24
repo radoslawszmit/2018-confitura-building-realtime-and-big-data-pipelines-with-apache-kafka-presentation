@@ -5,11 +5,11 @@
 +++
 ### Kafka Logs
 
-@div[left-50]
+@div[left-25]
 ![](img/how-it-works/log_consumer.png)
 @divend
 
-@div[right-50]
+@div[right-75]
 @ul[white]
 * Prosta abstrakcja składowania danych
 * Sekwencja danych (zachowuje kolejność)
@@ -27,7 +27,6 @@
 
 
 +++
-<!-- .slide: class="asdfweqwefds" -->
 ### Kafka Logs
 * Prosta abstrakcja składowania danych
 * Sekwencja danych (zachowuje kolejność)

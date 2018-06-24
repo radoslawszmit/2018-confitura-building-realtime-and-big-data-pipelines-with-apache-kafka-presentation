@@ -45,4 +45,5 @@
 
 
 ---
+<!-- .slide: class="end" -->
 # Dziękuję
