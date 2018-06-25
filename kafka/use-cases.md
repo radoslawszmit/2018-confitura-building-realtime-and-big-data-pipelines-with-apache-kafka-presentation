@@ -12,7 +12,7 @@
 ---
 <!-- .slide: class="imagecentersize75" -->
 ### Zastosowania
-![](img/use-cases/chart-kafka-infrastructure.png)
+![](assets/img/use-cases/chart-kafka-infrastructure.png)
 
 
 

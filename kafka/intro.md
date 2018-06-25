@@ -3,7 +3,7 @@
 
 
 ---
-![](img/intro/logo.png)
+![](assets/img/intro/logo.png)
 
 
 
@@ -20,7 +20,7 @@
 
 
 
----?image=img/intro/Franz-Kafka.jpg&color=black
+---?image=assets/img/intro/Franz-Kafka.jpg&color=black
 
 
 
@@ -38,5 +38,5 @@
 
 ---
 ### Popularność w świecie Big Data
-![](img/intro/five-years-of-hadoop-weekly.png)
+![](assets/img/intro/five-years-of-hadoop-weekly.png)
 <span class="footer">https://medium.com/@joecrobak/five-years-of-hadoop-weekly-7aa8994f140b</span>

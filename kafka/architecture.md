@@ -4,25 +4,25 @@
 
 ---
 ### Architektura
-![](img/architecture/Kafka-Broker-Diagram.png)
+![](assets/img/architecture/Kafka-Broker-Diagram.png)
 
 
 
 ---
 ### Brokerzy
-![](img/architecture/broker-on-disk.png)
+![](assets/img/architecture/broker-on-disk.png)
 
 
 
 ---
 ### Wiadomości
-![](img/architecture/messages.jpg)
+![](assets/img/architecture/messages.jpg)
 
 
 
 ---
 ### Segmenty
-![](img/architecture/segments.png)
+![](assets/img/architecture/segments.png)
 
 
 ---
@@ -35,11 +35,11 @@
 ### Data copying
 
 @div[left-50 fragment]
-![](img/architecture/traditional-data-copying.gif)
+![](assets/img/architecture/traditional-data-copying.gif)
 @divend
 
 @div[right-50 fragment]
-![](img/architecture/zero-copy-data-copying.gif)
+![](assets/img/architecture/zero-copy-data-copying.gif)
 @divend
 
 <span class="footer">https://www.ibm.com/developerworks/library/j-zerocopy/index.html</span>
@@ -50,11 +50,11 @@
 ### Context switching
 
 @div[left-50 fragment]
-![](img/architecture/traditional-context-switching.gif)
+![](assets/img/architecture/traditional-context-switching.gif)
 @divend
 
 @div[right-50 fragment]
-![](img/architecture/zero-copy-context-switching.gif)
+![](assets/img/architecture/zero-copy-context-switching.gif)
 @divend
 
 <span class="footer">https://www.ibm.com/developerworks/library/j-zerocopy/index.html</span>

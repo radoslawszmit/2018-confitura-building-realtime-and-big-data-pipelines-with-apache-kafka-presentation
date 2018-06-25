@@ -5,7 +5,7 @@
 ### Kafka API
 
 @div[left-50]
-![](img/integration/kafka-apis.png)
+![](assets/img/integration/kafka-apis.png)
 @divend
 
 @div[right-50]
