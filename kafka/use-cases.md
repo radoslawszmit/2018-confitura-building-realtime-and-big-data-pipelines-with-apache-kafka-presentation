@@ -10,7 +10,6 @@
 
 
 ---
-<!-- .slide: class="imagecentersize75" -->
 ### Zastosowania
 ![](assets/img/use-cases/chart-kafka-infrastructure.png)
 
