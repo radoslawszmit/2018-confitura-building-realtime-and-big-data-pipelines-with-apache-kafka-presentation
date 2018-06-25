@@ -30,24 +30,3 @@
     width: 75%;
     height: 75%;
 }
-
-
-
-
-
-
-
-#kafka-logs + p img  {
-    width: 50%;
-    height: 50%;
-}
-
-#data-copying ~ div img  {
-    width: 80%;
-    height: 80%;
-}
-
-#context-switching ~ div img  {
-    width: 80%;
-    height: 80%;
-}
