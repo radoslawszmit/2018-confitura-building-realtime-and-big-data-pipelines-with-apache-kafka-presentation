@@ -1,7 +1,7 @@
 
 # Integracja
 
-+++
+---
 ### Kafka API
 
 @div[left-50]
@@ -21,14 +21,14 @@
 
 
 
-+++
+---
 ### Klienci Kafka
 * Zespół Apache Kafka utrzymuje i rozwija bibliotekę kliencką dla języka **Java**
 * Dostępne są klienci "community" dla innych języków: C/C++, Python, Go (AKA golang), Erlang, .NET, Clojure, Ruby, Node.js, Proxy (HTTP REST, etc), Perl, stdin/stdout, PHP, Rust, Alternative Java, Storm, Scala DSL, Clojure, Swift etc.
 
 
 
-+++
+---
 ### Ekosystem
 * Integruje się z wieloma narzędziami: Hadoop, Flume, JDBC, Elasticsearch, Presto, Hive, Camel etc.
 * Integracja z narzędziemi do przetwarzania strumieniowego: Spark, Storm, Samza, Flink, Apex, Spring Cloud Stream etc.

@@ -1,7 +1,7 @@
 
 # Zastosowania
 
-+++
+---
 ### Zastosowania
 * Narzędzie do efektywnego strumieniowego przesyłania danych pomiędzy systemami i aplikacjami 
 * Narzędzie do przetwarzania strumieni danych
@@ -9,14 +9,14 @@
 
 
 
-+++
+---
 <!-- .slide: class="imagecentersize75" -->
 ### Zastosowania
 ![](img/use-cases/chart-kafka-infrastructure.png)
 
 
 
-+++
+---
 ### Message Broker
 * Amazon Web Services (AWS) Simple Queue Service (SQS)
 * Apache ActiveMQ
