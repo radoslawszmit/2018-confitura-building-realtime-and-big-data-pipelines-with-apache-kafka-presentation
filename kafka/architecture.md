@@ -42,8 +42,6 @@
 ![](assets/img/architecture/zero-copy-data-copying.gif)
 @divend
 
-<span class="footer">https://www.ibm.com/developerworks/library/j-zerocopy/index.html</span>
-
 
 
 ---
@@ -56,5 +54,3 @@
 @div[right-50 fragment]
 ![](assets/img/architecture/zero-copy-context-switching.gif)
 @divend
-
-<span class="footer">https://www.ibm.com/developerworks/library/j-zerocopy/index.html</span>

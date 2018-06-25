@@ -39,4 +39,3 @@
 ---
 ### Popularność w świecie Big Data
 ![](assets/img/intro/five-years-of-hadoop-weekly.png)
-<span class="footer">https://medium.com/@joecrobak/five-years-of-hadoop-weekly-7aa8994f140b</span>
