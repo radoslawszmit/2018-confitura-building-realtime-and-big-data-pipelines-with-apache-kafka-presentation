@@ -2,13 +2,13 @@
 # Zasada działania
 
 
----
++++
 ### Kafka Logs
 ![](assets/img/how-it-works/log.png)
 
 
 
----
++++
 ### Kafka Logs
 * Prosta abstrakcja składowania danych
 * Logi to wiadomości klucz-wartość
@@ -18,48 +18,48 @@
 
 
 
----
++++
 ### Producenci i konsumenci logów
 ![](assets/img/how-it-works/kafka-architecture.png)
 
 
 
----
++++
 ### Producenci i konsumenci logów
 ![](assets/img/how-it-works/log_subscription.png)
 
 
 
----
++++
 ### Partycje
 ![](assets/img/how-it-works/partitioned_log.png)
 
 
 
----
++++
 ### Partycje
 ![](assets/img/how-it-works/log_anatomy.png)
 
 
 
----
++++
 ### Consumer offset
 ![](assets/img/how-it-works/log_consumer.png)
 
 
 
----
++++
 ### Grupy konsumentów
 ![](assets/img/how-it-works/consumer-group.png)
 
 
 
----
++++
 ### Grupy konsumentów
 ![](assets/img/how-it-works/consumer-groups.png)
 
 
 
----
++++
 ### Kompaktowanie logów
 ![](assets/img/how-it-works/log_compaction_0.png)
