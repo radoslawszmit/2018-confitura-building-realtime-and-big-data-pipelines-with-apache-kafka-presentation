@@ -19,3 +19,6 @@
 ### Który wybrać?
 * Micro batch lub single data streaming
 * Praca w klastrze lub zwykła aplikacja
+* Skalowalność (rozbudowa czy włączenie nowego procesu/aplikacji)
+* Wsparcie dla "Exactly Once Delivery" (np. at least once w Spark)
+* Biblioteka, platforma czy narzędzie drag & drop
