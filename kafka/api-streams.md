@@ -20,5 +20,5 @@
 * Micro batch lub single data streaming
 * Praca w klastrze lub zwykła aplikacja
 * Skalowalność (rozbudowa czy włączenie nowego procesu/aplikacji)
-* Wsparcie dla "Exactly Once Delivery" (np. at least once w Spark)
+* Wsparcie dla "Exactly Once Delivery"
 * Biblioteka, platforma czy narzędzie drag & drop
