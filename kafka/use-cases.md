@@ -8,11 +8,22 @@
 * Narzędzie do reagowania na zdarzenia
 
 
++++
+### Problem LinkedIn
+TODO
+
 
 +++
 ### Zastosowania
 ![](assets/img/use-cases/chart-kafka-infrastructure.png)
 
+
++++
+### Integracja systemów
+* SOA
+* Mikroserwisy
+* ESB
+* Message Broker
 
 
 +++
@@ -22,3 +33,27 @@
 * Apache Apollo
 * RabbitMQ
 * Apache Qpid
+
+
++++
+### Flow Managment
+* NiFi
+* Flume
+
+
++++
+### Internet Of Things
+TODO
+
+
++++
+### Stream processing
+* Kafka Streams
+* Spark Streaming
+* Flink
+* NiFi
+
+
++++
+### Advanced pipelines
+TODO

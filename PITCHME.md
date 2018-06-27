@@ -24,7 +24,8 @@
 ---?include=kafka/how-it-works.md
 ---?include=kafka/architecture.md
 ---?include=kafka/integration.md
----?include=kafka/publish-subcribe-code.md
+---?include=kafka/api-publish-subcribe.md
+---?include=kafka/api-streams.md
 
 
 
