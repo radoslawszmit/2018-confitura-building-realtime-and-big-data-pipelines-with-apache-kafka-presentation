@@ -37,7 +37,7 @@ Kafka -> Kafka  | Streams API (lub Prod/Con API)
 
 +++
 ### Klienci Kafka
-* Stworzona w oparciu o język Scala
+* Stworzona w oparciu o język **Scala**
 * Zespół Apache Kafka utrzymuje i rozwija bibliotekę kliencką dla języka **Java**
 * Dostępne są klienci "community" dla innych języków programowania (niekiedy kilka możliwości)
 
@@ -45,7 +45,7 @@ Kafka -> Kafka  | Streams API (lub Prod/Con API)
 
 +++
 ### Ekosystem
-* Integracja z narzędziami Big Data: Hadoop, Flume, JDBC, Elasticsearch, Presto, Hive, Camel etc.
-* Integracja z narzędziemi do przetwarzania strumieniowego: Spark, Storm, Samza, Flink, NiFi, Apex, Spring Cloud Stream etc.
-* Dostępna w większości dystrybucjach Big Data (Cloudera, Hortonworks)
-* Integracja z AWS i innymi chmurami
+* Integracja z narzędziami **Big Data**: Hadoop, Flume, JDBC, Elasticsearch, Presto, Hive, Camel etc.
+* Integracja z narzędziemi do **przetwarzania strumieniowego**: Spark, Storm, Samza, Flink, NiFi, Apex, Spring Cloud Stream etc.
+* Dostępna w większości **dystrybucjach Big Data** (Cloudera, Hortonworks)
+* Integracja z AWS i innymi **chmurami publicznymi**
