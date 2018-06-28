@@ -6,6 +6,7 @@ Apache Kafka jest obecnie jedną z najpopularniejszych technologii Big Data słu
 Slajdy:
 
 https://gitpitch.com/radoslawszmit/confitura-2018-building-realtime-and-big-data-pipelines-with-apache-kafka-presentation/master?grs=github&t=beige
+
 https://gitpitch.com/radoslawszmit/confitura-2018-building-realtime-and-big-data-pipelines-with-apache-kafka-presentation/dev
 
 Warsztat:
