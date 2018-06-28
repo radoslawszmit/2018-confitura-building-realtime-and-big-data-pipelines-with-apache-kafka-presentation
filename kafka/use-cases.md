@@ -39,6 +39,8 @@ TODO
 ### Flow Managment
 * NiFi
 * Flume
+* Logstash
+* Pentaho Data Integration (Kettle)
 
 
 +++

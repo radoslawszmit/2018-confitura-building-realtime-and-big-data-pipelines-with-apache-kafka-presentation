@@ -10,11 +10,12 @@
 * Wprowadzono w Kafka 0.10.x (Maj 2016 r.)
 
 +++
-### Stream processing
+### Wiele narzędzi
 * Kafka Streams
 * Spark Streaming
 * Flink
 * NiFi
+* etc.
 
 +++
 ### Który wybrać?
