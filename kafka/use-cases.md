@@ -23,6 +23,7 @@
 
 
 +++
+<!-- .slide: class="imagecentersize60" -->
 ### Kafka w LinkedIn
 ![](assets/img/use-cases/kafka-linkedin.png)
 
@@ -73,6 +74,7 @@
 
 
 +++
+<!-- .slide: class="imagecentersize60" -->
 ### Real time analytics
 ![](assets/img/use-cases/real-time-analytics.png)
 
