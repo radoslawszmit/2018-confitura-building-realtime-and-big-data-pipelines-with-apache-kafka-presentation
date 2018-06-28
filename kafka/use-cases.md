@@ -59,3 +59,9 @@ TODO
 +++
 ### Advanced pipelines
 TODO
+
+
+
++++
+### Chmury hybrydowe
+![](assets/img/use-cases/ksql-cloud.png)
