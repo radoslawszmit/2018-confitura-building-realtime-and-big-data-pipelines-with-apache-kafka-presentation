@@ -60,6 +60,7 @@ TODO
 ### Stream processing
 * Kafka Streams
 * Spark Streaming
+* Akka Streams
 * Flink
 * NiFi
 
