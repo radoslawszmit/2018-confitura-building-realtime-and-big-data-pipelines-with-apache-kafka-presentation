@@ -30,6 +30,12 @@
 
 
 
+---?include=kafka/intro.md
+---?include=kafka/distribution.md
+---?include=kafka/use-cases.md
+---?include=kafka/how-it-works.md
+---?include=kafka/architecture.md
+---?include=kafka/integration.md
 ---?include=kafka/api-publish-subcribe.md
 ---?include=kafka/api-streams.md
 ---?include=kafka/api-connect.md
