@@ -30,7 +30,7 @@
 * Przetwarzanie strumieniowe
     * Kafka Streams API
     * Integracja z innymi narzędziami na przykładzie Spark Streaming
-* Pipelines
+* Pipelines & ETL
     * Connect API
 
 
