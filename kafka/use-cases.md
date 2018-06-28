@@ -68,6 +68,12 @@
 
 
 +++
+### Real time analytics
+![](assets/img/use-cases/real-time-analytics.png)
+
+
+
++++
 ### Flow Managment & ETL
 * NiFi
 * Flume

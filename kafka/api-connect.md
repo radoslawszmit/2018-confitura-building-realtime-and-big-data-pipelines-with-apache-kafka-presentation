@@ -11,9 +11,19 @@
 * Wprowadzono w Kafka 0.9.x (Listopad 2015 r.)
 
 
+
++++
+![](assets/img/connect/kafka-connect.png)
+
+
+
 +++
 ### Architektura
 * Wymagana instalacja komponentów (workers)
 * Obsługa trybu Standalone (dev) i Distributed Mode (prod)
 * Source i Sink Connectors
 * Connector + Configuration = Task
+
+
++++
+![](assets/img/connect/kafka-connect-sources-and-sinks.png)
