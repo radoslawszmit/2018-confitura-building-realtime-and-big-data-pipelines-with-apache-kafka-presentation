@@ -16,6 +16,7 @@
 * https://github.com/linkedin/Burrow
 * https://github.com/linkedin/kafka-tools
 * https://github.com/linkedin/kafka-monitor
+* https://github.com/Landoop/kafka-topics-ui
 
 
 

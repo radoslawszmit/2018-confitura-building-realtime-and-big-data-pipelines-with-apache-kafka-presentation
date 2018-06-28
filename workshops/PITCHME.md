@@ -34,6 +34,7 @@ Gajusz Juliusz Cezar
 * Wstęp
 * Środowisko developerskie
     * Java, Scala, IDEA, Maven, Docker, VirtualBox
+* Podstawowe operacje
 * Zastosowanie aplikacyjne
     * Producer / Consumer API
     * Odporoność na awarie
