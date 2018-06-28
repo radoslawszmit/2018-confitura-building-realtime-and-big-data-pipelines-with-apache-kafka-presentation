@@ -22,6 +22,11 @@
 
 
 
++++
+### Kafka w LinkedIn
+![](assets/img/use-cases/kafka-linkedin.png)
+
+
 
 +++
 ### Zastosowania
@@ -85,6 +90,18 @@
 +++
 ### Przykład firmy Uber
 ![](assets/img/use-cases/kafka-uber.png)
+
+
+
++++
+### Przykład firmy Netflix
+![](assets/img/use-cases/kafka-netflix.png)
+
+
+
++++
+### Przykład firmy Netflix
+![](assets/img/use-cases/kafka-netflix-stats.png)
 
 
 
