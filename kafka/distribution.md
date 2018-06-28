@@ -21,6 +21,12 @@
 
 
 +++
+### Hortonworks Data Platform (HDP®)
+![](assets/img/distribution/hdp-components.png)
+
+
+
++++
 ### Hortonworks DataFlow (HDF)
 ![](assets/img/distribution/hdf-3-1-platform-kafka.png)
 
