@@ -71,7 +71,7 @@
 * Możliwość kompresji wiadomości
 * Przydatne przy dużych paczkach (batch) wiadomości
 * Aktywacja za pomocą *compression.type*
-* Możliwe opcje: gzip, snappy, lz4, uncompressed, *producer*
+* Możliwe opcje: gzip, snappy, lz4, uncompressed, **producer**
 * Gdy kompresuje producent (zalecane)
     * brokerzy oszczędzają zasoby
     * mniej danych kopiowanych jest po sieci
