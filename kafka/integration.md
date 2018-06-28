@@ -25,10 +25,13 @@
 
 +++
 ### Które API wybrać?
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Wymaganie | Rozwiązanie
+------------    | -------------
+App -> Kafka    | Producer API
+Kafka -> App    | Consumer API
+Source -> Kafka | Producer API lub Connect API
+Kafka -> Sink   | Consumer API lub Connect API
+Kafka -> Kafka  | Streams API
 
 
 
