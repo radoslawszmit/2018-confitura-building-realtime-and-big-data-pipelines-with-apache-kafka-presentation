@@ -21,7 +21,7 @@
 
 
 +++
-### Hortonworks Data Platform (HDP®)
+### Hortonworks Data Platform (HDP)
 ![](assets/img/distribution/hdp-components.png)
 
 
