@@ -20,8 +20,10 @@
 
 ---
 ### Agenda
+<!-- .slide: class="font50" -->
 * Wstęp
-* Środowisko (Java, Scala, IDEA, Maven, Docker, VirtualBox)
+* Środowisko developerskie
+    * Java, Scala, IDEA, Maven, Docker, VirtualBox
 * Zastosowanie aplikacyjne
     * Producer / Consumer API
     * Odporoność na awarie
