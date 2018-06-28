@@ -1,6 +1,8 @@
 
 .reveal section img {
     border: 0;
+    max-height: 80%;
+    max-width: 80%;
 }
 
 
