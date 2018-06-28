@@ -15,6 +15,12 @@
 
 
 ---
+"Nauczycielem wszystkiego jest praktyka"
+Gajusz Juliusz Cezar
+
+
+
+---
 ### Organizacyjnie
 @fa[clock-o] Warsztat 4h <br />
 @fa[question] Pytania i problemy na bieżąco <br />
