@@ -3,4 +3,4 @@ theme-override : assets/css/PITCHME.css
 footnote : "Confitura 2018 - Building Realtime & Big Data Pipelines with Apache Kafka - Radosław Szmit"
 layout : center
 transition : convex
-logo : assets/img/sages.png
+logo : assets/img/confitura.png
