@@ -16,6 +16,7 @@
 
 +++
 ### Confluent Platform
+<!-- .slide: class="imagecentersize50" -->
 ![](assets/img/distribution/confluentPlatform3.1.png)
 
 
