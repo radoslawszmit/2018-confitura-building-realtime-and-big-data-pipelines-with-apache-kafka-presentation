@@ -22,7 +22,7 @@
 ### Organizacyjnie
 @fa[slideshare] Prezentacja 40 minut <br />
 @fa[question] Sesja krótkich pytań 5 minut <br />
-@fa[coffee] Dłuższe pytania na przerwie @fa[smile-wink] <br />
+@fa[coffee] @fa[smile-wink] Dłuższe pytania na przerwie @fa[smile-wink] <br />
 
 
 
