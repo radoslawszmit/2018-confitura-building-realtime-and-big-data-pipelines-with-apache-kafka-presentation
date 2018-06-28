@@ -30,7 +30,9 @@
 
 
 
-
+---?include=kafka/api-publish-subcribe.md
+---?include=kafka/api-streams.md
+---?include=kafka/api-connect.md
 
 
 
