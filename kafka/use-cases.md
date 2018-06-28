@@ -37,6 +37,16 @@ TODO
 
 
 +++
+![](assets/img/use-cases/datapipeline_complex.png)
+
+
+
++++
+![](assets/img/use-cases/datapipeline_simple.png)
+
+
+
++++
 ### Zdarzenia w czasie
 * Internet Of Things (IoT)
 * Systemy trackingowe
