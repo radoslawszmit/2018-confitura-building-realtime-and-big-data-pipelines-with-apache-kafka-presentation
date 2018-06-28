@@ -12,7 +12,7 @@
 
 ---
 ### Kilka przydatnych narzędzi:
-* KSQL - Streaming SQL for Apache Kafka (Confluent Platform)
+* KSQL - Streaming SQL for Apache Kafka (Confluent Platform, nakładka na Streams API nie wymgająca programowania)
 * https://github.com/linkedin/Burrow
 * https://github.com/linkedin/kafka-tools
 * https://github.com/linkedin/kafka-monitor
