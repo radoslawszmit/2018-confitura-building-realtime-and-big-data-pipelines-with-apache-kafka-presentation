@@ -15,6 +15,7 @@
 ### Wiele narzędzi
 * Kafka Streams
 * Spark Streaming
+* Akka Streams
 * Flink
 * NiFi
 

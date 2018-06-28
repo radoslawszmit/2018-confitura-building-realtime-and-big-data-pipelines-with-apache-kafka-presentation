@@ -35,17 +35,15 @@ TODO
 * Apache Qpid
 
 
-+++
-### Flow Managment
-* NiFi
-* Flume
-* Logstash
-* Pentaho Data Integration (Kettle)
-
 
 +++
-### Internet Of Things
-TODO
+### Zdarzenia w czasie
+* Internet Of Things (IoT)
+* Systemy trackingowe
+* Monitoring, metryki
+* Zbieranie logów
+* Event Sourcing
+
 
 
 +++
@@ -56,9 +54,13 @@ TODO
 * NiFi
 
 
+
 +++
-### Advanced pipelines
-TODO
+### Flow Managment & ETL
+* NiFi
+* Flume
+* Logstash
+* Pentaho Data Integration (Kettle)
 
 
 
