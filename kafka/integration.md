@@ -39,7 +39,7 @@ Kafka -> Kafka  | Streams API (lub Prod/Con API)
 ### Klienci Kafka
 * Stworzona w oparciu o język Scala
 * Zespół Apache Kafka utrzymuje i rozwija bibliotekę kliencką dla języka **Java**
-* Dostępne są klienci "community" dla innych języków: C/C++, Python, Go (AKA golang), Erlang, .NET, Clojure, Ruby, Node.js, Proxy (HTTP REST, etc), Perl, stdin/stdout, PHP, Rust, Alternative Java, Storm, Scala DSL, Clojure, Swift etc.
+* Dostępne są klienci "community" dla innych języków programowania (niekiedy kilka możliwości)
 
 
 
