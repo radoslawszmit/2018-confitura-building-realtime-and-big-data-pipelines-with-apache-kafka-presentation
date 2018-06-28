@@ -3,6 +3,7 @@
 * https://github.com/apache/kafka
 * https://kafka.apache.org
 * https://www.confluent.io/blog
+* Confluent Community Slack
 * Kafka: The Definitive Guide (O'Reilly Media, Inc. September 2017)
 * Mastering Apache Kafka (Jacek Laskowski)
 * http://bigdatapassion.pl/categories/kafka/
@@ -14,6 +15,7 @@
 * https://github.com/linkedin/Burrow
 * https://github.com/linkedin/kafka-tools
 * https://github.com/linkedin/kafka-monitor
+* KSQL - Streaming SQL for Apache Kafka (Confluent Platform)
 
 
 
