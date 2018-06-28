@@ -9,8 +9,9 @@
 
 ---
 ### Cel prezentacji
-* Poznanie Apache Kafka
-* Budowanie rozwiązań opartych o Apache Kafka
+* Czym jest Apache Kafka?
+* Kiedy powinienem jej użyć?
+* W jaki sposób zbudować gotowe rozwiązanie?
 
 
 
