@@ -22,11 +22,14 @@
 ### Agenda
 * Wstęp
 * Środowisko (Java, Scala, IDEA, Maven, Docker, VirtualBox)
-* Producer / Consumer API
-* Odporoność na awarie
-* Streams API
-* Integracja na przykładzie Spark Streaming
-* Connect API
+* Zastosowanie aplikacyjne
+    * Producer / Consumer API
+    * Odporoność na awarie
+* Przetwarzanie strumieniowe
+    * Kafka Streams API
+    * Integracja z innymi narzędziami na przykładzie Spark Streaming
+* Pipelines
+    * Connect API
 
 
 
