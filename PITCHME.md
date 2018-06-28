@@ -18,6 +18,14 @@
 
 
 
+---
+### Organizacyjnie
+@fa[slideshare] Prezentacja 40 minut <br />
+@fa[question] Sesja krótkich pytań 5 minut <br />
+@fa[coffee] Dłuższe pytania na przerwie @fa[smile] <br />
+
+
+
 ---?include=kafka/intro.md
 ---?include=kafka/distribution.md
 ---?include=kafka/use-cases.md
@@ -42,10 +50,11 @@
 
 
 ---
-# Pytania?
+# Pytania @fa[question]
 
 
 
 ---
 <!-- .slide: class="end" -->
 # Dziękuję
+# @fa[coffee]
