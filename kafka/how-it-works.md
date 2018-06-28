@@ -75,3 +75,4 @@
 * Gdy kompresuje producent (zalecane)
     * brokerzy oszczędzają zasoby
     * mniej danych kopiowanych jest po sieci
+* Zalecane dla danych które nie są binarne (xml, json, tekst)
