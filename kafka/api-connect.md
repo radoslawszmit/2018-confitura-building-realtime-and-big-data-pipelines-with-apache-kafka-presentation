@@ -8,6 +8,7 @@
 * Reużywanie tego samego kodu
 * Bazuje na frameworku
 * Odporność na awarie
+* Wprowadzono w Kafka 0.9.x (Listopad 2015 r.)
 
 
 +++

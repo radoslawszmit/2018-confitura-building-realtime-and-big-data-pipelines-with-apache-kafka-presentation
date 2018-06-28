@@ -3,13 +3,14 @@
 
 
 +++
+### Czym jest Apache Kafka?
 ![](assets/img/intro/logo.png)
 
 
 
 +++
 ### Czym jest Apache Kafka?
-"Apache Kafka® is a distributed streaming platform"
+![](assets/img/intro/kafka_diagram.png)
 
 
 +++
