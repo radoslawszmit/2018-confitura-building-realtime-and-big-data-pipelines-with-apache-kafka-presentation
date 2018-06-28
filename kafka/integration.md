@@ -29,9 +29,9 @@ Wymaganie | Rozwiązanie
 ------------    | -------------
 App -> Kafka    | Producer API
 Kafka -> App    | Consumer API
-Source -> Kafka | Connect API (lub Producer)
-Kafka -> Sink   | Connect API (lub Consumer)
-Kafka -> Kafka  | Streams API (lub Prod/Con)
+Source -> Kafka | Connect API (lub Producer API)
+Kafka -> Sink   | Connect API (lub Consumer API)
+Kafka -> Kafka  | Streams API (lub Prod/Con API)
 
 
 
