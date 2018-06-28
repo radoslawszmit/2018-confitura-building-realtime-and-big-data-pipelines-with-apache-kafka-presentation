@@ -61,6 +61,7 @@ TODO
 * Kafka Streams
 * Spark Streaming
 * Akka Streams
+* Samza
 * Flink
 * NiFi
 
