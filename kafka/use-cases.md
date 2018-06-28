@@ -1,6 +1,8 @@
 
 # Zastosowania
 
+
+
 +++
 ### Zastosowania
 * Narzędzie do efektywnego strumieniowego przesyłania danych pomiędzy systemami i aplikacjami 
@@ -10,7 +12,15 @@
 
 +++
 ### Problem LinkedIn
-TODO
+![](assets/img/use-cases/datapipeline_complex.png)
+
+
+
++++
+### Rozwiązanie LinkedIn
+![](assets/img/use-cases/datapipeline_simple.png)
+
+
 
 
 +++
@@ -33,16 +43,6 @@ TODO
 * Apache Apollo
 * RabbitMQ
 * Apache Qpid
-
-
-
-+++
-![](assets/img/use-cases/datapipeline_complex.png)
-
-
-
-+++
-![](assets/img/use-cases/datapipeline_simple.png)
 
 
 
@@ -73,6 +73,18 @@ TODO
 * Flume
 * Logstash
 * Pentaho Data Integration (Kettle)
+
+
+
++++
+### Przykład firmy Uber
+![](assets/img/use-cases/kafka-uber.png)
+
+
+
++++
+### Synchronizacja kilku centrów danych
+![](assets/img/use-cases/datacenters.png)
 
 
 
