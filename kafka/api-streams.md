@@ -9,13 +9,16 @@
 * Jest to zwykła aplikacja (Java) bez potrzeby dodatkowej instalacji "workerów"
 * Wprowadzono w Kafka 0.10.x (Maj 2016 r.)
 
+
+
 +++
 ### Wiele narzędzi
 * Kafka Streams
 * Spark Streaming
 * Flink
 * NiFi
-* etc.
+
+
 
 +++
 ### Który wybrać?
