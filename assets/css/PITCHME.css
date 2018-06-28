@@ -5,18 +5,29 @@
 
 
 
+.imagecentersize75 img {
+    width: 75%;
+    height: 75%;
+}
 .imagecentersize50 img {
     width: 50%;
     height: 50%;
 }
 
-.imagecentersize75 img {
-    width: 75%;
-    height: 75%;
+
+
+.font90 li {
+    font-size: 90% !important;
 }
-
-
-
+.font80 li {
+    font-size: 80% !important;
+}
+.font70 li {
+    font-size: 70% !important;
+}
+.font60 li {
+    font-size: 60% !important;
+}
 .font50 li {
     font-size: 50% !important;
 }

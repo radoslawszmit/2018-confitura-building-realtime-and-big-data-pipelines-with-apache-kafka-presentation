@@ -20,7 +20,7 @@
 
 ---
 ### Agenda
-<!-- .slide: class="font50" -->
+<!-- .slide: class="font80" -->
 * Wstęp
 * Środowisko developerskie
     * Java, Scala, IDEA, Maven, Docker, VirtualBox
