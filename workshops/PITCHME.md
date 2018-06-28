@@ -21,7 +21,7 @@
 ---
 ### Agenda
 * Wstęp
-* Docker
+* Środowisko (Java, Scala, IDEA, Maven, Docker, VirtualBox)
 * Producer / Consumer API
 * Odporoność na awarie
 * Streams API
