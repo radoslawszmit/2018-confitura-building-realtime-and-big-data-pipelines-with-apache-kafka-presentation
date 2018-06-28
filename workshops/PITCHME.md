@@ -19,6 +19,14 @@
 
 
 ---
+### Organizacyjnie
+@fa[clock-o] Warsztat 4h <br />
+@fa[question] Pytania i problemy na bieżąco <br />
+@fa[coffee] Krótka przerwa w połowie @fa[smile-o] <br />
+
+
+
+---
 ### Agenda
 <!-- .slide: class="font80" -->
 * Wstęp
