@@ -89,7 +89,7 @@
 
 
 +++
-<!-- .slide: class="imagecentersize50" -->
+<!-- .slide: class="imagecentersize75" -->
 ### Synchronizacja kilku centrów danych
 ![](assets/img/use-cases/datacenters.png)
 
