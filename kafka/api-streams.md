@@ -14,8 +14,7 @@
 
 
 +++
-### Wiele narzędzi
-* Kafka Streams
+### Konkurencja do:
 * Spark Streaming
 * Akka Streams
 * Samza
