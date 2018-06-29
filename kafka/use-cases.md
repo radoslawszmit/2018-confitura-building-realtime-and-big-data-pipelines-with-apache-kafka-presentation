@@ -108,6 +108,12 @@
 
 
 +++
+### Zasilanie Data Lake
+![](assets/img/use-cases/data-lake.png)
+
+
+
++++
 <!-- .slide: class="imagecentersize60" -->
 ### Synchronizacja kilku centrów danych
 ![](assets/img/use-cases/datacenters.png)
