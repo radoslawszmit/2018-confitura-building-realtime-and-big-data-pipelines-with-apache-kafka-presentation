@@ -23,7 +23,9 @@
 * Wymagana instalacja komponentów (workers)
 * Obsługa trybu Standalone (dev) i Distributed Mode (prod)
 * Source i Sink Connectors
+* Connector to Java jar
 * Connector + Configuration = Task
+* Taski uruchamiane są na workerach
 
 
 +++
