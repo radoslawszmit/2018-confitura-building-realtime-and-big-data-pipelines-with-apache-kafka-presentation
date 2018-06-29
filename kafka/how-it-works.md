@@ -81,14 +81,14 @@
 
 +++
 ### Gwarancja dostarczenia
-* At most once — Messages may be lost but are never redelivered.
-* At least once — Messages are never lost but may be redelivered.
-* Exactly once — this is what people actually want, each message is delivered once and only once.
+* At most once — Co najwyżej raz
+* At least once — Przynajmniej raz
+* Exactly once — Dokładnie raz
 
 
 
 +++
 ### Gwarancja dostarczenia
-* effectively Kafka supports exactly-once delivery in Kafka Streams
-* Kafka guarantees at-least-once delivery by default
-* Exactly-once delivery for other destination systems generally requires cooperation with such systems
+* Kafka Streams wspiera exactly-once delivery 
+* Pozostałe API domyślnie wspierają at-least-once delivery
+* Exactly-once delivery wymaga współpracy z systemem docelowym, dodatkowa implementacja
