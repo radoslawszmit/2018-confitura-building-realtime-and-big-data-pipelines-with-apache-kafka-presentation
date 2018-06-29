@@ -9,7 +9,7 @@
 
 ---
 ### Cel prezentacji
-* Czym jest Apache Kafka?
+* Czym jest Apache Kafka i jak działa?
 * Kiedy powinienem jej użyć?
 * W jaki sposób zbudować gotowe rozwiązanie?
 
