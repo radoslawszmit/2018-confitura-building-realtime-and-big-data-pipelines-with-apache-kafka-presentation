@@ -21,9 +21,9 @@ Jan 1, 2010
 
 +++
 There are only two hard problems in distributed systems: 
-2. Exactly-once delivery 
-1. Guaranteed order of messages 
-2. Exactly-once delivery
+* 2 Exactly-once delivery 
+* 1 Guaranteed order of messages 
+* 2 Exactly-once delivery
 
 -- Mathias Verraes @mathiasverraes
 Aug 14, 2015
