@@ -19,13 +19,13 @@
 
 
 +++
-### Producenci i konsumenci logów
+### Producenci, konsumenci, topic
 ![](assets/img/how-it-works/kafka-architecture.png)
 
 
 
 +++
-### Producenci i konsumenci logów
+### Producenci i konsumenci - odczyt i zapis
 ![](assets/img/how-it-works/log_subscription.png)
 
 
