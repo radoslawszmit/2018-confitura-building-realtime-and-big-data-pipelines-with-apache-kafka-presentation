@@ -32,17 +32,30 @@ Gajusz Juliusz Cezar
 ### Agenda
 <!-- .slide: class="font80" -->
 * Wstęp
-* Środowisko developerskie
-    * Java, Scala, IDEA, Maven, Docker, VirtualBox
 * Podstawowe operacje w konsoli
-* Zastosowanie aplikacyjne
-    * Producer / Consumer API
-    * Odporoność na awarie
-* Przetwarzanie strumieniowe
-    * Kafka Streams API
-    * Integracja z innymi narzędziami na przykładzie Spark Streaming
-* Pipelines & ETL
-    * Connect API
+* Producer / Consumer API
+* Odporoność na awarie (testy)
+* Kafka Streams API
+* Integracja z Spring Framework
+* Integracja z innymi narzędziami (na przykładzie Spark Streaming)
+* Podsumowanie
+
+
+
+---
+### Środowisko Developerskie
+* Własne środowisko
+    * IntelliJ IDEA
+    * Java (JDK) 8
+    * Scala 2.11
+    * Maven 3.5+
+    * Git
+    * Docker CE 18+
+    * Docker Compose 1.20+
+* Gotowe środowisko
+    * VirtualBox 5.2+
+    * Windows/Linux/Mac 64 bit
+    * virtualization enabled in PC BIOS
 
 
 
