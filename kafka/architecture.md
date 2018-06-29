@@ -54,3 +54,17 @@
 @div[right-50 fragment]
 ![](assets/img/architecture/zero-copy-context-switching.gif)
 @divend
+
+
+
++++
+### Optymalizacja
+* Java 1.8 z G1 collector
+* Zostawić RAM dla “page chache’a”
+* Zwiększyć liczbę deskryptorów
+* High Performance Data Transfers (TCP)
+* Używać dysków na wyłączność, używać wielu dysków, lepiej szybsze dyski
+* Zookeeper powinien być na innych maszynach, większa wydajność przy wyłącznym korzystaniu
+* RAID nie jest zalecany
+* Zalecany jest EXT4 lub XFS
+* Nie używać dysków współdzielonych/sieciowych (kafka doznaje awarii)
