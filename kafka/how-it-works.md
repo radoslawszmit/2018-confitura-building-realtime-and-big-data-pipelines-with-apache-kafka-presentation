@@ -31,14 +31,20 @@
 
 
 +++
-### Partycje
+### Partycje - wydajność i rozproszenie
 ![](assets/img/how-it-works/partitioned_log.png)
 
 
 
 +++
-### Partycje
+### Partycje - gdzie zapisać?
 ![](assets/img/how-it-works/log_anatomy.png)
+
+
+
++++
+### Partycje - replikacja
+![](assets/img/how-it-works/replication.jpg)
 
 
 
