@@ -3,8 +3,10 @@
 
 
 +++
-#### There are only two hard things in Computer Science: 
-#### cache invalidation and naming things.
+There are only two hard things in Computer Science: 
+* cache invalidation and
+* naming things.
+<br/>
 -- Phil Karlton
 
 
@@ -13,7 +15,7 @@ There are 2 hard problems in computer science:
 * cache invalidation, 
 * naming things, 
 * and off-by-1 errors.
-
+<br/>
 -- Leon Bambrick @secretGeek
 Jan 1, 2010
 
@@ -24,7 +26,7 @@ There are only two hard problems in distributed systems:
 * 2 Exactly-once delivery 
 * 1 Guaranteed order of messages 
 * 2 Exactly-once delivery
-
+<br/>
 -- Mathias Verraes @mathiasverraes
 Aug 14, 2015
 
