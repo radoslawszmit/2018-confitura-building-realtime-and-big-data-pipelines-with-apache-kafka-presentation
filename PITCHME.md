@@ -29,7 +29,7 @@
 * Zastosowania
 * Zasada działania
 * Architektura
-* Integracja
+* Integracja z innymi narzędziami
 * Dostęp za pomocą API
 * Gwarancje dostarczenia
 
