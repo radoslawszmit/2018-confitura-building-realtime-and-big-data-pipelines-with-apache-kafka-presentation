@@ -25,7 +25,7 @@
 
 
 +++
-### Producenci i konsumenci - odczyt i zapis
+### Producenci i konsumenci - niezależny odczyt i zapis
 ![](assets/img/how-it-works/log_subscription.png)
 
 
