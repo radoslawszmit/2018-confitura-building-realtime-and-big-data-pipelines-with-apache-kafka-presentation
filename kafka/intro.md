@@ -33,7 +33,7 @@
 * Skalowalność
 * Rozproszona
 * Trwałość (durability)
-* Narzędzie czasu rzeczywistego
+* Narzędzie czasu rzeczywistego (niemal)
 * Narzędzie Big Data (terabajty danych, miliony zdarzeń na sekundę)
 
 
