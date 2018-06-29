@@ -6,6 +6,7 @@
 * Narzędzie do integracji z popularnymi źródłami danych
 * Wykorzystywane jako wejście lub wyjście z topicu
 * Reużywanie tego samego kodu
+* Dostępnych wiele konektorów
 * Bazuje na frameworku
 * Odporność na awarie
 * Wprowadzono w Kafka 0.9.x (Listopad 2015 r.)
