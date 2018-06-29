@@ -9,6 +9,7 @@
 
 
 +++
+<!-- .slide: class="imagecentersize50" -->
 ### Czym jest Apache Kafka?
 ![](assets/img/intro/kafka_diagram.png)
 
