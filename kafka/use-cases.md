@@ -53,7 +53,7 @@
 
 
 +++
-### Zdarzenia w czasie
+### Systemy oparte o dane i zdarzenia
 * Internet Of Things (IoT)
 * Systemy trackingowe
 * Monitoring, metryki
@@ -64,7 +64,7 @@
 
 
 +++
-### Stream processing
+### Przetwarzanie strumieniowe
 * Kafka Streams
 * Spark Streaming
 * Akka Streams
