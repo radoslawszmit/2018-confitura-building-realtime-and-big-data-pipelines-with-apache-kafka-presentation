@@ -8,7 +8,7 @@
 -- Phil Karlton
 
 
----
++++
 There are 2 hard problems in computer science:
 * cache invalidation, 
 * naming things, 
@@ -19,7 +19,7 @@ Jan 1, 2010
 
 
 
----
++++
 There are only two hard problems in distributed systems: 
 2. Exactly-once delivery 
 1. Guaranteed order of messages 
