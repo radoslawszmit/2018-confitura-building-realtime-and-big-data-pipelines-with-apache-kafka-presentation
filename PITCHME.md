@@ -1,5 +1,5 @@
 
-# Building Realtime & Big Data Pipelines with Apache Kafka
+# Building Real-time & Big Data Pipelines with Apache Kafka
 
 
 
@@ -38,7 +38,7 @@
 ---?include=kafka/how-it-works.md
 ---?include=kafka/architecture.md
 ---?include=kafka/integration.md
----?include=kafka/api-publish-subcribe.md
+---?include=kafka/api-publish-subscribe.md
 ---?include=kafka/api-streams.md
 ---?include=kafka/api-connect.md
 

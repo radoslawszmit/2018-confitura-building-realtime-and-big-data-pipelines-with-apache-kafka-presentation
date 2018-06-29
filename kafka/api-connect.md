@@ -5,7 +5,7 @@
 ### Co to takiego?
 * Narzędzie do integracji z popularnymi źródłami danych
 * Wykorzystywane jako wejście lub wyjście z topicu
-* Reużywanie tego samego kodu
+* Używanie tego samego kodu (zwykle czyjegoś)
 * Dostępnych wiele konektorów
 * Bazuje na frameworku
 * Odporność na awarie
@@ -25,7 +25,7 @@
 * Source i Sink Connectors
 * Connector to Java jar
 * Connector + Configuration = Task
-* Taski uruchamiane są na workerach
+* "Taski" uruchamiane są na "workerach"
 
 
 +++
