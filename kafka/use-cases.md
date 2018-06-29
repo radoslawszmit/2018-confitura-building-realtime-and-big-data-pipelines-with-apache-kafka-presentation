@@ -59,6 +59,7 @@
 * Monitoring, metryki
 * Zbieranie logów
 * Event Sourcing
+* Wejście do naszego systemu
 
 
 
