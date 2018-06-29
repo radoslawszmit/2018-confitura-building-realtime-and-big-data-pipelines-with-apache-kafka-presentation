@@ -7,6 +7,8 @@
 * Wejściem i wyjściem jest topic
 * Integralna część Apache Kafka
 * Jest to zwykła aplikacja (Java) bez potrzeby dodatkowej instalacji "workerów"
+* Skalowalność, elastyczność, odporność na awarie
+* Exactly Once Delivery
 * Wprowadzono w Kafka 0.10.x (Maj 2016 r.)
 
 
