@@ -15,12 +15,6 @@
 
 
 +++
-### Confluent Platform
-![](assets/img/distribution/confluentPlatform3.1.png)
-
-
-
-+++
 ### Hortonworks Data Platform (HDP)
 ![](assets/img/distribution/hdp-components.png)
 
