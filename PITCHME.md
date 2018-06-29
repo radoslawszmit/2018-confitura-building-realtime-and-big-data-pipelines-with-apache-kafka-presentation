@@ -41,5 +41,6 @@
 ---?include=kafka/api-publish-subscribe.md
 ---?include=kafka/api-streams.md
 ---?include=kafka/api-connect.md
+---?include=kafka/guarantees.md
 
 ---?include=kafka/summary.md

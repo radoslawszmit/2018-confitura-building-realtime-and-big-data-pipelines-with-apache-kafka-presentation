@@ -83,19 +83,3 @@
     * brokerzy oszczędzają zasoby
     * mniej danych kopiowanych jest po sieci
 * Zalecane dla danych które nie są binarne (xml, json, tekst)
-
-
-
-+++
-### Gwarancja dostarczenia
-* At most once — Co najwyżej raz
-* At least once — Przynajmniej raz
-* Exactly once — Dokładnie raz
-
-
-
-+++
-### Gwarancja dostarczenia
-* Kafka Streams wspiera exactly-once delivery 
-* Pozostałe API domyślnie wspierają at-least-once delivery
-* Exactly-once delivery wymaga współpracy z systemem docelowym, dodatkowa implementacja
