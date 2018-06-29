@@ -43,6 +43,7 @@ Gajusz Juliusz Cezar
 
 
 ---
+<!-- .slide: class="font80" -->
 ### Środowisko Developerskie
 * Własne środowisko
     * IntelliJ IDEA
