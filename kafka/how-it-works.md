@@ -76,3 +76,19 @@
     * brokerzy oszczędzają zasoby
     * mniej danych kopiowanych jest po sieci
 * Zalecane dla danych które nie są binarne (xml, json, tekst)
+
+
+
++++
+### Gwarancja dostarczenia
+* At most once — Messages may be lost but are never redelivered.
+* At least once — Messages are never lost but may be redelivered.
+* Exactly once — this is what people actually want, each message is delivered once and only once.
+
+
+
++++
+### Gwarancja dostarczenia
+* effectively Kafka supports exactly-once delivery in Kafka Streams
+* Kafka guarantees at-least-once delivery by default
+* Exactly-once delivery for other destination systems generally requires cooperation with such systems
