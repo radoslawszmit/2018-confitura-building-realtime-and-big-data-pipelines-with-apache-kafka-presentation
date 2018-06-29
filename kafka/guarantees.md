@@ -45,6 +45,6 @@ Aug 14, 2015
 
 +++
 ### Gwarancja dostarczenia
-* Kafka Streams wspiera **exactly-once delivery** 
+* Kafka Streams API wspiera **exactly-once delivery** 
 * Pozostałe API domyślnie wspierają **at-least-once delivery**
 * Exactly-once delivery wymaga współpracy z systemem docelowym, dodatkowa implementacja
