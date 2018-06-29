@@ -32,6 +32,7 @@
 
 +++
 ### Consumer offset
+<!-- .slide: class="imagecentersize50" -->
 ![](assets/img/how-it-works/log_consumer.png)
 
 
