@@ -31,6 +31,12 @@
 
 
 +++
+### Consumer offset
+![](assets/img/how-it-works/log_consumer.png)
+
+
+
++++
 ### Partycje - wydajność i rozproszenie
 ![](assets/img/how-it-works/partitioned_log.png)
 
@@ -45,12 +51,6 @@
 +++
 ### Partycje - replikacja
 ![](assets/img/how-it-works/replication.jpg)
-
-
-
-+++
-### Consumer offset
-![](assets/img/how-it-works/log_consumer.png)
 
 
 
