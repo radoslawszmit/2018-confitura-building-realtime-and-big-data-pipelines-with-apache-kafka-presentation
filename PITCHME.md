@@ -27,8 +27,11 @@
 ### Agenda
 * Wstęp
 * Zastosowania
-* Architektura i zasada działania
+* Zasada działania
+* Architektura
+* Integracja
 * Dostęp za pomocą API
+* Gwarancje dostarczenia
 
 
 
