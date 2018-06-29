@@ -40,3 +40,13 @@
 +++
 ### Popularność w świecie Big Data
 ![](assets/img/intro/five-years-of-hadoop-weekly.png)
+
+
+
+
++++
+### Architektura systemów Big Data
+* Batch - przetwarzanie wsadowe (offline)
+* Kappa - wszystko jest strumieniem (real-time)
+* Lambda - połączenie Batch i Kappa
+![](assets/img/intro/Diagram_of_Lambda_Architecture_(generic).png)
