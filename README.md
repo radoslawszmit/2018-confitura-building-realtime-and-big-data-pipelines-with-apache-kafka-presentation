@@ -39,5 +39,6 @@ Agenda
     1. Replication
     1. Data compression
     
-Installation requirements
+Installation requirements:
+
 https://docs.google.com/document/d/1HYCsDPyyyfO3gHUgfxNYRdqloN8RDbBDTOgz2cN0ESs/edit?usp=sharing
