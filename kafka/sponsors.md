@@ -1,5 +1,6 @@
 
 <!-- .slide: class="imagecentersize10" -->
+<!-- .slide: class="font50" -->
 ### ORGANIZATOR WARSZTATU
 ![](assets/img/sages.png)
 Sages sp. z o.o. jest firmą szkoleniową i doradczą działającą od 10 lat w branży IT. <br/>
@@ -9,6 +10,7 @@ Naszym celem jest łączenie wiedzy pochodzącej ze środowisk akademickich i do
 
 ---
 <!-- .slide: class="imagecentersize10" -->
+<!-- .slide: class="font50" -->
 ### PARTNER WARSZTATU
 ![](assets/img/alior.jpg)
 Alior Bank jest jednym z najdynamiczniej rozwijających się banków uniwersalnych świadczącym pełen zakres usług skierowanych do klientów detalicznych i biznesowych. Bank systematycznie umacnia pozycję rynkową skutecznie łącząc zasady tradycyjnej bankowości z innowacyjnymi rozwiązaniami i produktami.  W ramach przyjętej strategii są już realizowane projekty w obszarze: automatyzacji, robotyzacji, blockchain, chmura, PSD2/API, sztuczna inteligencja DRONN, biometria. <br/>
