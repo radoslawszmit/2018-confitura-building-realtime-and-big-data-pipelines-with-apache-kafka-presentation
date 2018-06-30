@@ -5,7 +5,14 @@
     max-width: 80%;
 }
 
+.sponsors {
+    font-size: 50% !important;
+}
 
+.sponsors img {
+    width: 10%;
+    height: 10%;
+}
 
 .imagecentersize75 img {
     width: 75%;
