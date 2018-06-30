@@ -3,6 +3,15 @@
 
 
 +++
+### Docker
+~~~bash
+docker-compose up
+docker exec -it cluster_kafka1 bash
+~~~
+
+
+
++++
 ### Zmienne systemowe
 ~~~bash
 export KAFKA_ZOOKEEPER=localhost:2181
