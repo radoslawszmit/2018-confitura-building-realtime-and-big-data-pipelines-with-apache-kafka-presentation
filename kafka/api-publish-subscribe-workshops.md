@@ -51,6 +51,7 @@ if (records.count() > 0) {
 }
 
 consumer.commitAsync();
+consumer.close();
 ~~~
 @[1-5](Konfiguracja)
 @[7](Kafka konsument)
@@ -58,6 +59,7 @@ consumer.commitAsync();
 @[10](Pobranie wiadomości z topicu)
 @[12-18](Pobranie wiadomości z topicu)
 @[20](Offsets commit)
+@[21](Zamykamy odbiorcę)
 
 
 
