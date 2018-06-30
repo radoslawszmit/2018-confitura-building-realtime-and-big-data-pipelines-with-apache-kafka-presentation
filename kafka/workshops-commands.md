@@ -54,5 +54,8 @@ bin/kafka-topics.sh --list --zookeeper $KAFKA_ZOOKEEPER
 +++
 ### Topic z replikami
 ~~~bash
-TODO
+bin/kafka-topics.sh --create --zookeeper localhost:2181 \
+    --replication-factor 3 --partitions 3 --topic my-super-topic
+bin/kafka-topics.sh --describe --zookeeper $KAFKA_ZOOKEEPER \
+    --topic my-super-topic
 ~~~
