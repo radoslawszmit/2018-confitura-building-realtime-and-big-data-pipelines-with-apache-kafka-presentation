@@ -49,3 +49,10 @@ bin/kafka-topics.sh --alter --zookeeper $KAFKA_ZOOKEEPER \
 ~~~bash
 bin/kafka-topics.sh --list --zookeeper $KAFKA_ZOOKEEPER
 ~~~
+
+
++++
+### Topic z replikami
+~~~bash
+TODO
+~~~
