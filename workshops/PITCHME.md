@@ -7,7 +7,7 @@
 ---?include=kafka/about.md
 
 
----?include=kafka/workshops.md
+---?include=kafka/workshops-intro.md
 
 
 ---?include=kafka/intro-mini.md
