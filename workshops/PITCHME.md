@@ -53,12 +53,11 @@ Gajusz Juliusz Cezar
 ### Program
 <!-- .slide: class="font80" -->
 * Wstęp
+* Środowisko pracy
 * Podstawowe operacje w konsoli
 * Producer / Consumer API
 * Odporoność na awarie (testy)
 * Kafka Streams API
-* Integracja z Spring Framework
-* Integracja z innymi narzędziami (na przykładzie Spark Streaming)
 * Podsumowanie
 
 
