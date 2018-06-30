@@ -29,7 +29,28 @@ Gajusz Juliusz Cezar
 
 
 ---
-### Agenda
+### Tematyka
+<!-- .slide: class="font80" -->
+1. Introduction
+    1. History
+    1. Use cases
+    1. Terminology
+    1. Architecture
+    1. Comparison between Kafka and Message Queues
+1. APIS
+    1. Producer API
+    1. Consumer API
+    1. Streams API
+    1. Message serialization
+1. Operations
+    1. Installation
+    1. Configuration
+    1. Replication
+    1. Data compression
+
+
+---
+### Program
 <!-- .slide: class="font80" -->
 * Wstęp
 * Podstawowe operacje w konsoli
