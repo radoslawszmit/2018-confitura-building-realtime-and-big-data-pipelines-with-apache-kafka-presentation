@@ -62,6 +62,14 @@ Gajusz Juliusz Cezar
 * Podsumowanie
 
 
+---
+### GitHub
+https://github.com/sagespl/HADOOP
+~~~bash
+git clone https://github.com/sagespl/HADOOP.git
+cd HADOOP
+mvn clean install -DskipTests=true
+~~~
 
 ---
 <!-- .slide: class="font80" -->
