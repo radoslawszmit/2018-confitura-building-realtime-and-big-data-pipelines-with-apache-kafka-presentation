@@ -3,7 +3,7 @@
 ### ORGANIZATOR WARSZTATU
 ![](assets/img/sages.png)
 <br/>
-**Sages sp. z o.o. jest firmą szkoleniową i doradczą** działającą od 10 lat w branży IT. <br/>
+**Sages sp. z o.o. jest firmą szkoleniową i doradczą**<br/> działającą od 10 lat w branży IT. <br/>
 Misją firmy jest **wspieranie procesu projektowania, wytwarzania i wdrażania oprogramowania w przedsiębiorstwach i instytucjach publicznych**, aby zminimalizować koszty, czas i ryzyko, związane z tymi przedsięwzięciami.  <br/>
 Naszym celem jest łączenie wiedzy pochodzącej ze środowisk akademickich i doświadczenia ekspertów z obszaru praktycznych zastosowań w biznesie, aby budować kompetencje kadr w Polsce, a w szczególności **przyczynić się do wzrostu efektywności i innowacyjności krajowej branży IT.**
 
