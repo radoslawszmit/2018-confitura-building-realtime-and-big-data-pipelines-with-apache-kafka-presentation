@@ -22,7 +22,7 @@ Gajusz Juliusz Cezar
 
 ---
 ### Organizacyjnie
-@fa[clock-o] Warsztat 4h <br />
+@fa[clock-o] Warsztat 4h (14 - 18) <br />
 @fa[question] Pytania i problemy na bieżąco <br />
 @fa[coffee] Krótkie przerwy w trakcie @fa[smile-o] <br />
 
