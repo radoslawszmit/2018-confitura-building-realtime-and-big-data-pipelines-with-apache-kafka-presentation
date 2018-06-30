@@ -57,3 +57,14 @@ consumer.commitAsync();
 @[11](Pobranie wiadomości z topicu)
 @[13-20](Pobranie wiadomości z topicu)
 @[22](Offsets commit)
+
+
+
++++
+### Podsumowanie
+* Producer API
+* Consumer API
+* Konfiguracja
+* Serializacja danych
+* Praca sync i async
+* Kompresja
