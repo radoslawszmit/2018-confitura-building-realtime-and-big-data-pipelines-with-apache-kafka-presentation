@@ -51,7 +51,7 @@ Gajusz Juliusz Cezar
 
 
 ---
-### Program
+### Harmonogram
 <!-- .slide: class="font80" -->
 * Wstęp
 * Środowisko pracy
@@ -62,6 +62,7 @@ Gajusz Juliusz Cezar
 * Podsumowanie
 
 
+
 ---
 ### GitHub
 https://github.com/sagespl/HADOOP
@@ -70,6 +71,8 @@ git clone https://github.com/sagespl/HADOOP.git
 cd HADOOP
 mvn clean install -DskipTests=true
 ~~~
+
+
 
 ---
 <!-- .slide: class="font80" -->
