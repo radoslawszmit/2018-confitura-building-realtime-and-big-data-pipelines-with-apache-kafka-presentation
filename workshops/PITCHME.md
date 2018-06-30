@@ -16,7 +16,7 @@
 
 
 ---
-# Nauczycielem wszystkiego jest praktyka
+## Nauczycielem wszystkiego jest praktyka
 Gajusz Juliusz Cezar
 
 
