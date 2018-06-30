@@ -67,7 +67,7 @@ Gajusz Juliusz Cezar
 * Gotowe środowisko
     * VirtualBox 5.2+
     * Windows/Linux/Mac 64 bit
-    * virtualization enabled in PC BIOS
+    * Virtualization enabled in PC BIOS
 
 
 
