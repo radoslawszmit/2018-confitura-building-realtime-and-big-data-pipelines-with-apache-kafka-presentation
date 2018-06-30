@@ -3,6 +3,7 @@
 
 
 
+---?include=kafka/sponsors.md
 ---?include=kafka/about.md
 
 
