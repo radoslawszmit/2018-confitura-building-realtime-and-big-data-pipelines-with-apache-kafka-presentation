@@ -15,6 +15,8 @@
 ---?include=kafka/architecture.md
 ---?include=kafka/integration.md
 
+---?include=kafka/workshops-commands.md
+
 ---?include=kafka/api-publish-subscribe.md
 ---?include=kafka/api-publish-subscribe-workshops.md
 
