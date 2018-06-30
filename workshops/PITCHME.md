@@ -80,7 +80,7 @@ Gajusz Juliusz Cezar
     * virtualization enabled in PC BIOS
 
 
----?include=kafka/intro.md
+---?include=kafka/intro-mini.md
 ---?include=kafka/how-it-works.md
 ---?include=kafka/architecture.md
 ---?include=kafka/integration.md
