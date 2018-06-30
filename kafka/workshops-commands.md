@@ -51,8 +51,6 @@ bin/kafka-topics.sh --zookeeper $KAFKA_ZOOKEEPER --describe \
 ~~~bash
 bin/kafka-topics.sh --alter --zookeeper $KAFKA_ZOOKEEPER \
     --topic $TOPIC --partitions 20
-bin/kafka-topics.sh --alter --zookeeper $KAFKA_ZOOKEEPER \
-    --topic $TOPIC --replication-factor 3
 ~~~
 
 
