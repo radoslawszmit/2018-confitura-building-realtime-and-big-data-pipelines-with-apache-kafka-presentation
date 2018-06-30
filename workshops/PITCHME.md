@@ -19,7 +19,7 @@
 ---?include=kafka/api-publish-subscribe-workshops.md
 
 ---?include=kafka/api-streams.md
----?include=kafka/api-publish-subscribe-workshops.md
+---?include=kafka/api-streams-workshops.md
 
 
 ---?include=kafka/summary.md
