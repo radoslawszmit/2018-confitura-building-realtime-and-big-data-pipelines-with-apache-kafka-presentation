@@ -50,7 +50,7 @@ bin/kafka-topics.sh --zookeeper $KAFKA_ZOOKEEPER --describe \
 ### Edycja topicu
 ~~~bash
 bin/kafka-topics.sh --alter --zookeeper $KAFKA_ZOOKEEPER \
-    --topic $TOPIC --partitions 20
+    --topic $TOPIC --partitions 3
 ~~~
 
 
