@@ -64,17 +64,6 @@ Gajusz Juliusz Cezar
 
 
 ---
-### GitHub
-https://github.com/sagespl/HADOOP
-~~~bash
-git clone https://github.com/sagespl/HADOOP.git
-cd HADOOP
-mvn clean install -DskipTests=true
-~~~
-
-
-
----
 <!-- .slide: class="font80" -->
 ### Środowisko Developerskie
 * Własne środowisko
@@ -89,6 +78,18 @@ mvn clean install -DskipTests=true
     * VirtualBox 5.2+
     * Windows/Linux/Mac 64 bit
     * virtualization enabled in PC BIOS
+
+
+
+---
+### GitHub
+https://github.com/sagespl/HADOOP
+~~~bash
+git clone https://github.com/sagespl/HADOOP.git
+cd HADOOP
+mvn clean install -DskipTests=true
+~~~
+
 
 
 ---?include=kafka/intro-mini.md
