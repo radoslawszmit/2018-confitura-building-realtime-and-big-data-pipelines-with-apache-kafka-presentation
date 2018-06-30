@@ -56,7 +56,7 @@ Gajusz Juliusz Cezar
 * Środowisko pracy
 * Podstawowe operacje w konsoli
 * Producer / Consumer API
-* Odporność na awarie (testy)
+* Odporność na awarie (crash testy)
 * Kafka Streams API
 * Podsumowanie
 
