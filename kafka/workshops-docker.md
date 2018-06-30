@@ -3,12 +3,12 @@
 
 +++
 ### Docker
-start
+przed
 ~~~bash
 cd ../HADOOP/docker/kafka/1_1_0/cluster
 docker-compose up
 ~~~
-stop
+na sam koniec
 ~~~bash
 docker-compose down
 ~~~
