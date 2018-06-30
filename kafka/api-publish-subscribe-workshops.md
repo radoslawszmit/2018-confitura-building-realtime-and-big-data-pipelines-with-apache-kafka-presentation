@@ -34,7 +34,6 @@ producer.close();
 Properties consumerConfig = new Properties();
 consumerConfig.put(ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG, KAFKA_SERVER);
 consumerConfig.put(ConsumerConfig.GROUP_ID_CONFIG, "group-name");
-consumerConfig.put(ConsumerConfig.AUTO_OFFSET_RESET_CONFIG, "earliest");
 consumerConfig.put(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class.getCanonicalName());
 consumerConfig.put(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class.getCanonicalName());
 
@@ -47,19 +46,18 @@ if (records.count() > 0) {
     LOGGER.info("Poll records: " + records.count());
 
     for (ConsumerRecord<String, String> record : records) {
-        System.out.printf("Received Message topic = %s, partition = %s, offset = %d, key = %s, value = %s\n",
-        record.topic(), record.partition(), record.offset(), record.key(), record.value());
+        // Consume message
     }
 }
 
 consumer.commitAsync();
 ~~~
-@[1-6](Konfiguracja)
-@[8](Kafka konsument)
-@[9](Subskrybcja do kolejki)
-@[11](Pobranie wiadomości z topicu)
-@[13-20](Pobranie wiadomości z topicu)
-@[22](Offsets commit)
+@[1-5](Konfiguracja)
+@[7](Kafka konsument)
+@[8](Subskrybcja do kolejki)
+@[10](Pobranie wiadomości z topicu)
+@[12-18](Pobranie wiadomości z topicu)
+@[20](Offsets commit)
 
 
 
