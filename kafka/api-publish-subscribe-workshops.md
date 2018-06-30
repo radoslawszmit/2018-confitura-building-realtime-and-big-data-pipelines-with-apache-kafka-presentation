@@ -76,3 +76,4 @@ https://github.com/apache/kafka/tree/trunk/examples/src/main/java/kafka/examples
 * Serializacja danych
 * Praca sync i async
 * Kompresja
+* Offsety

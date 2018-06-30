@@ -22,3 +22,10 @@ bin/zookeeper-server-start.sh config/zookeeper.properties
 ~~~bash
 bin/kafka-server-start.sh config/server.properties
 ~~~
+
+
+
++++
+### Konfiguracja
+https://kafka.apache.org/documentation/#brokerconfigs
+* cleanup.policy=compact
