@@ -66,7 +66,7 @@ Gajusz Juliusz Cezar
 <!-- .slide: class="font80" -->
 ### Środowisko Developerskie
 * Własne środowisko
-    * IntelliJ IDEA
+    * IntelliJ IDEA (Community lub Ultimate)
     * Java (JDK) 8
     * Scala 2.11
     * Maven 3.5+
