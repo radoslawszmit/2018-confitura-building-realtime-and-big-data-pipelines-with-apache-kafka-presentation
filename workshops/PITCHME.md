@@ -16,7 +16,7 @@
 ---?include=kafka/integration.md
 
 ---?include=kafka/api-publish-subscribe.md
----?include=kafka/api-publish-subscribe-code.md
+---?include=kafka/api-publish-subscribe-workshops.md
 
 ---?include=kafka/api-streams.md
 
