@@ -14,10 +14,11 @@
 ---?include=kafka/how-it-works.md
 ---?include=kafka/architecture.md
 ---?include=kafka/integration.md
+
 ---?include=kafka/api-publish-subscribe.md
 ---?include=kafka/api-publish-subscribe-code.md
+
 ---?include=kafka/api-streams.md
 
----?include=kafka/guarantees.md
 
 ---?include=kafka/summary.md
