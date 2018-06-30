@@ -61,6 +61,12 @@ consumer.commitAsync();
 
 
 +++
+### Przykłady ze źródeł Kafki
+https://github.com/apache/kafka/tree/trunk/examples/src/main/java/kafka/examples
+
+
+
++++
 ### Podsumowanie
 * Producer API
 * Consumer API
