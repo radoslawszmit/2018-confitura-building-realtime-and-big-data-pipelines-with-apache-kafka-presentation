@@ -27,3 +27,8 @@
 
 
 ---?include=kafka/summary.md
+
+
+---
+### Ankieta
+https://bit.ly/2lFWigj
