@@ -72,7 +72,8 @@ bin/kafka-console-producer.sh --broker-list $KAFKA_BROKER --topic $TOPIC
 ~~~
 
 ~~~bash
-bin/kafka-console-consumer.sh --bootstrap-server $KAFKA_BROKER --topic $TOPIC --from-beginning
+bin/kafka-console-consumer.sh --bootstrap-server $KAFKA_BROKER \
+    --topic $TOPIC --from-beginning
 
 bin/kafka-console-consumer.sh --bootstrap-server $KAFKA_BROKER \
     --topic $TOPIC \
