@@ -65,7 +65,7 @@ bin/kafka-topics.sh --describe --zookeeper $KAFKA_ZOOKEEPER \
 
 
 +++
-# Producent i konsument w konsoli
+### Producent i konsument w konsoli
 
 ~~~bash
 bin/kafka-console-producer.sh --broker-list $KAFKA_BROKER --topic $TOPIC
