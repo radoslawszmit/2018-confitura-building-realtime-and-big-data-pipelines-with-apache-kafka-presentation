@@ -9,7 +9,7 @@
 bin/kafka-console-consumer.sh --bootstrap-server $KAFKA_BROKER --topic $TOPIC --from-beginning
 
 bin/kafka-console-consumer.sh --bootstrap-server $KAFKA_BROKER \
-    --topic test-topic-out \
+    --topic TOPIC_OUT \
     --from-beginning \
     --formatter kafka.tools.DefaultMessageFormatter \
     --property print.key=true \

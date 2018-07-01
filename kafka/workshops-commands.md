@@ -8,12 +8,14 @@
 export KAFKA_ZOOKEEPER=localhost:2181
 export KAFKA_BROKER=localhost:9092
 export TOPIC=test-topic
+export TOPIC_OUT=test-topic-out
 ~~~
 lub
 ~~~bash
 export KAFKA_ZOOKEEPER=cluster_zookeeper:2181
 export KAFKA_BROKER=cluster_kafka1:9092,cluster_kafka2:9092,cluster_kafka3:9092
 export TOPIC=test-topic
+export TOPIC_OUT=test-topic-out
 ~~~
 
 
