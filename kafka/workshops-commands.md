@@ -59,3 +59,25 @@ bin/kafka-topics.sh --create --zookeeper $KAFKA_ZOOKEEPER \
 bin/kafka-topics.sh --describe --zookeeper $KAFKA_ZOOKEEPER \
     --topic my-super-topic
 ~~~
+
+
+
++++
+# Producent i konsument w konsoli
+
+~~~bash
+bin/kafka-console-producer.sh --broker-list $KAFKA_BROKER --topic $TOPIC
+~~~
+
+~~~bash
+bin/kafka-console-consumer.sh --bootstrap-server $KAFKA_BROKER --topic $TOPIC --from-beginning
+
+bin/kafka-console-consumer.sh --bootstrap-server $KAFKA_BROKER \
+    --topic $TOPIC \
+    --from-beginning \
+    --formatter kafka.tools.DefaultMessageFormatter \
+    --property print.key=true \
+    --property print.value=true \
+    --property key.deserializer=org.apache.kafka.common.serialization.StringDeserializer \
+    --property value.deserializer=org.apache.kafka.common.serialization.StringDeserializer
+~~~
